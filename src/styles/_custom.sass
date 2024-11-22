@@ -37,11 +37,87 @@
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: #fff
 
+// Colores tabla
+tr, td
+  border: 1px solid #FFFFFF !important
+.bg-05
+  background-color: #5C783B
+  color: #fff
+  font-weight: bold
+  text-align: center
+
+.bg-06
+  background-color: #9EB682
+  color: #12263F
+  font-weight: bold
+  text-align: center
+
+.bg-07
+  background-color: #C7D5B6
+  color: #12263F
+  font-weight: bold
+  text-align: center
+
+.bg-08
+  background-color: #C7D5B6
+  color: #12263F
+
+// Colores bg de tarjeta
 .bg-03
   background-color: #FFD793
 
-// Titulos
+.bg-04
+  background-color: #080814
 
+.bg-09
+  background-color: #5C783B
+
+.bg-10
+  background-color: #FFCE79
+
+.bg-11
+  color: #CCA460
+
+.bg-12
+  color: #BD2F56
+
+.border-derecha
+  border-radius: 0px 20px 20px 0px
+
+.border-izquierda
+  border-radius: 20px 0px 0px 20px
+
+.bg-degradado-01
+  background: rgb(115,150,74)
+  background: linear-gradient(270deg, rgba(115,150,74,1) 0%, rgba(51,73,11,1) 100%)
+
+.text-naranja
+  color: #FF964C
+
+.text-marron
+  color: #8C492A
+
+// Slyder 
+.slyder_1
+  .slyder-a__bullets__item--active
+    background-color: #FF964C
+    border-color: #FF964C
+  .slyder-a__bullets__item
+    background-color: #FF964C
+  .slyder-a__btn--atrs
+    background-color: #FF964C
+    border-color: #FF964C
+    color: #12263F
+  .slyder-a__btn--sigt
+    background-color: #FF964C
+    border-color: #FF964C
+    color: #12263F
+
+.fondo_1_2
+  background-image: url('../assets/curso/temas/tema1/img_20.png') !important
+  background-size: cover
+
+// Titulos
 .bgr_3
   background-color: #283A08
   border-radius: 20px
@@ -58,9 +134,12 @@
   left: -9px
 
 /* Media Query para pantallas de 768px o menos */
-@media (max-width: 767px)
+@media (max-width: 768px)
   .bgr_3
     display: ''
+
+  .border-derecha, .border-izquierda
+    border-radius: 20px 20px 20px 20px
 
 /* Media Query específico para pantallas de 425px o menos */
 @media (max-width: 425px)
@@ -95,7 +174,6 @@
     border-left: 5px dotted #C7C7C7 !important
 
 // Tarjeta enumeradas
-
 .tarjeta-numerada.bg-01
   border-color: #73964A
   background-color: #F0F3EB
@@ -126,6 +204,14 @@
 .tarjeta-numerada.bg-08 .tarjeta-numerada__numero div
   color: #ffffff
 
+// .tarjeta-numerada
+//   height: 115px !important
+//   p
+//     margin-top: -10px !important
+// .tarjeta-numerada.mt-22
+//   p
+//     margin-top: -22px !important
+
 // Listas ul
 
 .lista-ul--color
@@ -141,10 +227,19 @@
   margin-right: 10px
   flex-shrink: 0
 
+.lista-ul--color li > i:first-of-type
+  color: #8C492A
+
+.lista-ol--cuadro__vineta
+  background-color: #8C492A
+
+.lista-ol--separador li, .lista-ul--separador li
+  border-bottom: dashed 1px #b0c0d2
+
 // Fondos de tarjetas
 .bg_img
   position: relative
-  p, figure, slyder-f .tarjeta
+  p, figure, slyder-d, .tarjeta
     position: relative
   &::before
     content: ''
@@ -154,7 +249,7 @@
     left: -48px
     width: calc(100% + 96px)
     height: 100%
-    background-image: url(../assets/curso/temas/tema1/img_3.png) !important
+    background-image: url(../assets/curso/temas/tema1/img_26.png) !important
     background-repeat: no-repeat
   &_0
     position: relative
@@ -217,7 +312,7 @@
       background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,247,234,1) 100%)
   &_5
     position: relative
-    .tarjeta, h4
+    .tarjeta, h4, h5
       position: relative
     &::before
       content: ''
@@ -228,7 +323,10 @@
       width: calc(100% + 96px)
       height: 100%
       // background-image: url(../assets/curso/temas/tema1/img_12.png) !important
-      background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,247,234,1) 100%)
+      // background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,247,234,1) 100%)
+      background: rgb(255,255,255)
+      background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,240,214,1) 100%)
+
       background-repeat: no-repeat
   &_5_5
     position: relative
