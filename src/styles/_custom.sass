@@ -10,10 +10,265 @@
     top: 51%
     right: 30%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/interno.png") !important
+  background-repeat: no-repeat
+
+.titulo-principal__numero
+  min-width: 45px
+  height: 45px
+  margin-right: 15px
+  position: relative
+  background-color: #FFBA5B
+
+.titulo-principal__numero
+  background-color: #FFA686 !important
+
+.titulo-principal__numero span
+  color: #000 !important
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: #fff
+
+.bg-03
+  background-color: #FFD793
+
+// Titulos
+
+.bgr_3
+  background-color: #283A08
+  border-radius: 20px
+  display: inline-block
+  padding: 10px
+  padding-left: 69px
+  position: relative
+  color: #fff
+
+.pst
+  position: absolute
+  width: 70px
+  top: -13px
+  left: -9px
+
+/* Media Query para pantallas de 768px o menos */
+@media (max-width: 767px)
+  .bgr_3
+    display: ''
+
+/* Media Query específico para pantallas de 425px o menos */
+@media (max-width: 425px)
+  .bgr_3
+    display: ''
+
+// Colores de cajones
+
+.cajon.bg-1
+  background-color: #FFDFC9
+  p
+    margin-bottom: 0
+.cajon.bg-1::before
+  background-color: #FF964C
+
+.cajon.bg-2
+  background-color: #DDE5D3
+  p
+    margin-bottom: 0
+.cajon.bg-2::before
+  background-color: #73964A
+
+///////// Linea tiempo --------------------------------------
+.linea-tiempo-d__item--selected, .linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content,.tarjeta,.tarjeta--gris
+    background-color: #FFF0D6 !important
+  .linea-tiempo-d__item__number
+    background-color: #FFF0D6 !important
+  .linea-tiempo-d__item__number
+    background-color: #FFF0D6 !important
+  .linea-tiempo-d__item__dots:after
+    border-left: 5px dotted #C7C7C7 !important
+
+// Tarjeta enumeradas
+
+.tarjeta-numerada.bg-01
+  border-color: #73964A
+  background-color: #F0F3EB
+
+.tarjeta-numerada.bg-01 .tarjeta-numerada__numero
+  background-color: #73964A
+
+.tarjeta-numerada.bg-01 .tarjeta-numerada__numero div
+  color: #ffffff
+
+.tarjeta-numerada.bg-07
+  border-color: #995120
+  background-color: #FFF3EB
+
+.tarjeta-numerada.bg-07 .tarjeta-numerada__numero
+  background-color: #995120
+
+.tarjeta-numerada.bg-07 .tarjeta-numerada__numero div
+  color: #ffffff
+
+.tarjeta-numerada.bg-08
+  border-color: #115B77
+  background-color: #E9F5F9
+
+.tarjeta-numerada.bg-08 .tarjeta-numerada__numero
+  background-color: #115B77
+
+.tarjeta-numerada.bg-08 .tarjeta-numerada__numero div
+  color: #ffffff
+
+// Listas ul
+
+.lista-ul--color
+  padding-left: 0
+  list-style: none
+
+.lista-ul--color li
+  display: flex
+  align-items: flex-start
+  margin-bottom: 10px
+
+.lista-ul--color li i
+  margin-right: 10px
+  flex-shrink: 0
+
+// Fondos de tarjetas
+.bg_img
+  position: relative
+  p, figure, slyder-f .tarjeta
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 0
+    left: -48px
+    width: calc(100% + 96px)
+    height: 100%
+    background-image: url(../assets/curso/temas/tema1/img_3.png) !important
+    background-repeat: no-repeat
+  &_0
+    position: relative
+    p, figure, .cajon,
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url(../assets/curso/temas/tema1/img_3.png) !important
+      background-repeat: no-repeat
+  &_1
+    &::before
+      width: calc(100% + 96px)
+      height: 100%
+      // background-image: url(../assets/curso/temas/tema1/img_33.png) !important
+      background-repeat: no-repeat
+  &_2
+    position: relative
+    p, figure, h5, span, .titulo-sexto
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background: linear-gradient(0deg, rgba(250,248,242,0) 0%, rgba(250,248,242,1) 15%, rgba(250,248,242,1) 85%, rgba(250,248,242,0) 100%)
+  &_3
+    position: relative
+    PasosA
+    position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background: linear-gradient(0deg, rgba(250,248,242,0) 0%, rgba(250,248,242,1) 15%, rgba(250,248,242,1) 85%, rgba(250,248,242,0) 100%)
+  &_4
+    position: relative
+    div
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,247,234,1) 100%)
+  &_5
+    position: relative
+    .tarjeta, h4
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      // background-image: url(../assets/curso/temas/tema1/img_12.png) !important
+      background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,247,234,1) 100%)
+      background-repeat: no-repeat
+  &_5_5
+    position: relative
+    .tarjeta, h4
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url(../assets/curso/temas/tema1/img_12.png) !important
+      background-repeat: no-repeat
+  &_6
+    position: relative
+    // .tarjeta
+    //   position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background: linear-gradient(0deg, rgba(250,248,242,0) 0%, rgba(250,248,242,1) 15%, rgba(250,248,242,1) 85%, rgba(250,248,242,0) 100%)
+  &_7
+    position: relative
+    div
+      position: relative
+    // .bloque-texto-g
+    //   position: unset
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background: linear-gradient(0deg, rgba(250,248,242,0) 0%, rgba(250,248,242,1) 15%, rgba(250,248,242,1) 85%, rgba(250,248,242,0) 100%)
