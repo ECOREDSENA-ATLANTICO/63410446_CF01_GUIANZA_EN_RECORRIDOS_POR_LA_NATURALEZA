@@ -23,7 +23,7 @@
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
 
       .row.justify-content-center.align-items-center.mb-2
-        .col-lg-8.mb-2
+        .col-lg-12.col-xl-8.mb-2
           .cajon.bg-1.g_18.mb-3
             .row.mb-4
               .col-lg-12.p-4.ps-5 
@@ -32,7 +32,7 @@
           p La información que proporciona la Ecología Recreativa apoya a los administradores de ASP (áreas silvestres protegidas) de las siguientes maneras: identifica los impactos al recurso causados por la recreación, facilita un entendimiento de las causas específicas y los efectos de los impactos, y fomenta una percepción más acertada para prevenir, mitigar y manejar los impactos al recurso.
           p Por otro lado, los estudios han respaldado la creación de los principios de No Deje Rastro como un programa con bases sólidas del estudio a través de décadas y poder ver el comportamiento de los visitantes y sus impactos.
         
-        .col-md-8.col-lg-4.mb-2
+        .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
             img(src="@/assets/curso/temas/tema5/img_2.png", alt="alt")
 
