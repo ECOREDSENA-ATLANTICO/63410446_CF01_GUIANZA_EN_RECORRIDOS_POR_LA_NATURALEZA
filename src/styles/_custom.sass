@@ -87,6 +87,12 @@ tr, td
 .bg-15
   background-color: #8C492A
 
+.bg-16
+  background-color: #283A08
+
+.bg-17
+  background-color: #28341A
+
 .bg-transparente
   background-color: transparent
 
@@ -290,6 +296,19 @@ tr, td
       width: calc(100% + 96px)
       height: 100%
       background-image: url(../assets/curso/temas/tema1/img_3.png) !important
+  &_6_1
+    position: relative
+    p, figure, h4, div
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url(../assets/curso/temas/tema1/img_3.png) !important
       background-repeat: no-repeat
   &_1
     &::before
@@ -338,7 +357,7 @@ tr, td
       background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,247,234,1) 100%)
   &_5
     position: relative
-    .tarjeta, h4, h5
+    .tarjeta, h4, h5, p, figure
       position: relative
     &::before
       content: ''
@@ -356,7 +375,7 @@ tr, td
       background-repeat: no-repeat
   &_5_5
     position: relative
-    .tarjeta, h4
+    .tarjeta, h4, figure, p
       position: relative
     &::before
       content: ''
@@ -381,6 +400,34 @@ tr, td
       width: calc(100% + 96px)
       height: 100%
       background: linear-gradient(0deg, rgba(250,248,242,0) 0%, rgba(250,248,242,1) 15%, rgba(250,248,242,1) 85%, rgba(250,248,242,0) 100%)
+  &_6_2
+    position: relative
+    .tarjeta, h4, h5, p, figure
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background: #D5DFC8
+  &_6_3
+    position: relative
+    .tarjeta, h4, h5, p, figure, .linea-tiempo-d
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background: #D5DFC8
+      background: linear-gradient(180deg, rgba(213,223,200,1) 0%, rgba(255,255,255,1) 100%)
+
   &_7
     position: relative
     div
@@ -477,3 +524,7 @@ tr, td
   z-index: 1
   @media (max-width: 1000px)
     display: none
+
+.ordenar_tarjeta_lg
+  .col-md-8.col-lg-6.col-xl-4
+    order: -1
