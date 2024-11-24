@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **Ecología y conducción de grupos turísticos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/63410446_CF01_GUIANZA_EN_RECORRIDOS_POR_LA_NATURALEZA/#/](https://ecoredsena-atlantico.github.io/63410446_CF01_GUIANZA_EN_RECORRIDOS_POR_LA_NATURALEZA/#/)
 
 #
 
@@ -14,14 +14,16 @@
 
 ### 3. Asegurarce que el repositorio tiene TODOS los archivos de la [BASE](https://github.com/ECORED-SENA/ECORED-BASE-2021)
 
-### 4. Revisar que el archivo package.json en la línea ``"ecored-base-pkg": "*.*.*"`` tenga la [última versión](https://www.npmjs.com/package/ecored-base-pkg)
+### 4. Revisar que el archivo package.json en la línea `"ecored-base-pkg": "*.*.*"` tenga la [última versión](https://www.npmjs.com/package/ecored-base-pkg)
 
 ### 5. Instalación de dependencias
 
 ```
 npm install
 ```
+
 #
+
 ## **Desarrollo**
 
 ### Montaje de servidor local
@@ -63,4 +65,5 @@ npm run lint
 #
 
 ## **Documentacion AOS**
+
 [https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)
