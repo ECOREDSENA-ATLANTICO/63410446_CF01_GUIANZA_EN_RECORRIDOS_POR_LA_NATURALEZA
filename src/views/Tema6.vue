@@ -125,43 +125,43 @@
           SlyderF(columnas="col-lg-6 col-xl-4")
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
-                .col-8
-                  img(src='@/assets/curso/temas/tema6/img_5.svg' alt='AvatarTop')
+                .col-8.text-center
+                  img(src='@/assets/curso/temas/tema6/img_5.svg' alt='AvatarTop').w-75.mx-auto
               h4 Superficies
               p Camine en superficies resistentes.
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
-                .col-8
-                  img(src='@/assets/curso/temas/tema6/img_6.svg' alt='AvatarTop')
+                .col-8.text-center
+                  img(src='@/assets/curso/temas/tema6/img_6.svg' alt='AvatarTop').w-75.mx-auto
               h4 Acampar
               p Encuentre y seleccione un lugar para acampar.
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
-                .col-8
-                  img(src='@/assets/curso/temas/tema6/img_7.svg' alt='AvatarTop')
+                .col-8.text-center
+                  img(src='@/assets/curso/temas/tema6/img_7.svg' alt='AvatarTop').w-75.mx-auto
               h4 Fuentes de agua
               p Proteja las fuentes de agua dulce y realice las actividades contaminantes a más de 60 metros de ellas. 
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
-                .col-8
-                  img(src='@/assets/curso/temas/tema6/img_8.svg' alt='AvatarTop')
+                .col-8.text-center
+                  img(src='@/assets/curso/temas/tema6/img_8.svg' alt='AvatarTop').w-75.mx-auto
               h4 Lugares
               p Evite los lugares donde el impacto apenas comienza.
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
-                .col-8
-                  img(src='@/assets/curso/temas/tema6/img_9.svg' alt='AvatarTop')
+                .col-8.text-center
+                  img(src='@/assets/curso/temas/tema6/img_9.svg' alt='AvatarTop').w-75.mx-auto
               h4 Campamento
               p Evite ubicar el campamento en sitios frágiles o sensibles.
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
-                .col-8
-                  img(src='@/assets/curso/temas/tema6/img_10.svg' alt='AvatarTop')
+                .col-8.text-center
+                  img(src='@/assets/curso/temas/tema6/img_10.svg' alt='AvatarTop').w-75.mx-auto
               h4 Limpieza
               p Deje limpio y mejor de cómo encontró el lugar.
 
