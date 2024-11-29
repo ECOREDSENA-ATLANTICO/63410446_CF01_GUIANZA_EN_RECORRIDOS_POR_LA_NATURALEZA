@@ -178,9 +178,12 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 En todo caso, es importante evitar áreas donde el impacto apenas empieza y dejar que los sitios se recuperen en vez de convertirse en sitios establecidos en nuevas áreas de sacrificio. En toda área es importante evitar sitios frágiles y proteger las fuentes de agua dulce.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-12.col-lg-12.mb-5
+        .bg_img_8
+            h4.color-primario Áreas de alto uso
+
       .col-lg-8.mb-3
-        h4.color-primario Áreas de alto uso
         LineaTiempoD
           row(numero="1" titulo="Manténgase en el sendero principal") 
             p.mb-3 En casi todas las áreas frecuentadas para actividades recreativas, existen senderos o caminos establecidos con anterioridad. Algunas rutas y sitios de acampar ya están marcados en los mapas. Estas zonas que ya han sido alteradas cuentan con suelos duros, bastante compactados en los que la vegetación no se desarrolla. Zonas con estas características las llamamos: "zonas de sacrificio".
@@ -201,8 +204,10 @@
         figure
           img(src="@/assets/curso/temas/tema6/img_12.png", alt="alt").mx-auto
 
-
     .row.justify-content-center.align-items-center.mb-3
+      .col-md-12.col-lg-12.mb-5
+        .bg_img_9
+            h4.color-primario Áreas vírgenes o poco frecuentadas 
       .col-lg-12.mb-2
         h4.text-verde Camine sobre superficies resistentes 
         p Por su propia definición en las áreas prístinas o vírgenes no existen senderos hechos por el hombre, por lo que es necesario ser más cuidadoso en seleccionar una superficie resistente para caminar. Siempre que sea posible, procure caminar en grupos pequeños:
@@ -314,7 +319,7 @@
           figure
             img(src="@/assets/curso/temas/tema6/img_20.png", alt="alt")
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-5
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 3: Disponga de desperdicios de la manera más apropiada
@@ -352,7 +357,10 @@
             i.fas.fa-check-circle
             |	Lo que lleve, regréselo. Esta es una frase simple que recuerda a todo campista de regresar a casa toda la basura que ha producido en el campo. 
 
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-12.col-lg-12.mb-5
+        .bg_img_10
+            h4.color-primario Lo que lleve, regréselo
       .col-lg-12.mb-2
         h4.mb-2.text-verde Reduzca la basura en el origen
         p Esto hace posible dejar en casa una gran cantidad de basura potencial y reducir el peso y el volumen de su equipo:
@@ -418,6 +426,9 @@
 
     .bg_img_5.mb-5
       .row.justify-content-center.align-items-center.mb-4
+        .col-md-12.col-lg-12.mb-5
+          .bg_img_10
+              h4.color-primario Técnicas de higiene
         .col-lg-12.col-xl-8.mb-2
           h4.mb-2.text-verde Proteja las fuentes de agua 
           .cajon.bg-1.g_18.mb-3

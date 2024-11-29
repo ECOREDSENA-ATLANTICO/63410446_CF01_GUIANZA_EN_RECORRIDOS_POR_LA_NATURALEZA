@@ -135,6 +135,11 @@ tr, td
   background-image: url('../assets/curso/temas/tema1/img_20.png') !important
   background-size: cover
 
+.fondo_1_1_1
+  background-image: url('../assets/curso/temas/tema1/img_15.png') !important
+  background-size: cover
+
+
 // Titulos
 .bgr_3
   background-color: #283A08
@@ -151,6 +156,14 @@ tr, td
   top: -13px
   left: -9px
 
+/* Media Query específico para pantallas de 1024px o menos */
+@media (max-width: 1024px)
+  .bg_img_9::before
+    width: 45% !important
+  
+  .bg_img_10::before
+    width: 35% !important
+
 /* Media Query para pantallas de 768px o menos */
 @media (max-width: 768px)
   .bgr_3
@@ -158,11 +171,33 @@ tr, td
 
   .border-derecha, .border-izquierda
     border-radius: 20px 20px 20px 20px
+      
+  .ordenar_tarjeta_lg
+    .col-md-8.col-lg-6.col-xl-4
+      order: -1
+  
+  .bg_img_8::before
+    width: 35% !important
 
+  .bg_img_9::before
+    width: 60% !important
+
+  .bg_img_10::before
+    width: 50% !important
+  
 /* Media Query específico para pantallas de 425px o menos */
 @media (max-width: 425px)
   .bgr_3
     display: ''
+  
+  .bg_img_8::before
+    width: 55% !important
+
+  .bg_img_9::before
+    width: 95% !important
+  
+  .bg_img_10::before
+    width: 70% !important
 
 // Colores de cajones
 
@@ -443,7 +478,52 @@ tr, td
       width: calc(100% + 96px)
       height: 100%
       background: linear-gradient(0deg, rgba(250,248,242,0) 0%, rgba(250,248,242,1) 15%, rgba(250,248,242,1) 85%, rgba(250,248,242,0) 100%)
-
+  &_8
+    position: relative
+    p, figure, slyder-f, .tarjeta, .linea-tiempo-d, .row, h4
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -20px
+      left: -48px
+      width: 35%
+      height: calc(100% + 40px)
+      background-color: #f1ef5f
+      border-top-right-radius: 30px
+      border-bottom-right-radius: 30px
+  &_9
+    position: relative
+    p, figure, slyder-f, .tarjeta, .linea-tiempo-d, .row, h4
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -20px
+      left: -48px
+      width: 35%
+      height: calc(100% + 40px)
+      background-color: #f1ef5f
+      border-top-right-radius: 30px
+      border-bottom-right-radius: 30px
+  &_10
+    position: relative
+    p, figure, slyder-f, .tarjeta, .linea-tiempo-d, .row, h4
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -20px
+      left: -48px
+      width: 25%
+      height: calc(100% + 40px)
+      background-color: #f1ef5f
+      border-top-right-radius: 30px
+      border-bottom-right-radius: 30px
+      
 //// Tarjetas --------------------------------------
 .img90
   width: 90px
@@ -525,6 +605,6 @@ tr, td
   @media (max-width: 1000px)
     display: none
 
-.ordenar_tarjeta_lg
-  .col-md-8.col-lg-6.col-xl-4
-    order: -1
+.bloque_fondo
+  .bloque-texto-g__img
+    width: 100%

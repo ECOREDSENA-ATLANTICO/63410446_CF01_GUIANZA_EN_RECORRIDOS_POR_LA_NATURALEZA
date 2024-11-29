@@ -338,7 +338,7 @@ export default {
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Carmen Alicia Martinez Torres',
+          nombre: 'Nelson Ivan Vera Briceño',
           cargo: 'Animador y Producción audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',

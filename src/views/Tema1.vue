@@ -354,13 +354,24 @@
         p Llamamos contaminación a aquellos cambios, no deseables en nuestro entorno, de las características físicas, químicas y biológicas del aire, del agua y del suelo, que afectan al hombre, a las especies animales y a las vegetales.
 
       .col-lg-12.mb-4
-        .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.bloque-texto-g--inverso.p-3.p-sm-4.p-md-5.bloque_fondo
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_15.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p xaas
-    
+            h4.mb-2 Clases de Contaminación <br>
+            p Todo lo que existe en la naturaleza puede ser alterado o destruido por la reacción de distintos contaminantes, teniendo en cuenta:
+            ul.lista-ul--color
+              li 
+                i.fas.fa-check-circle
+                |	Contaminación del aire.
+              li 
+                i.fas.fa-check-circle
+                |	Contaminación del agua. 
+              li 
+                i.fas.fa-check-circle
+                |	Contaminación del suelo.
+
       .col-lg-12.mb-4
         p Las principales formas de contaminación, como la atmosférica, hídrica y del suelo, continúan incrementándose a causa del crecimiento urbano. La inteligencia artificial se perfila como una herramienta fundamental para monitorear, predecir y mitigar los efectos nocivos de la contaminación.
       
