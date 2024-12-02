@@ -21,6 +21,15 @@
   background-image: url("../assets/curso/portada/interno.png") !important
   background-repeat: no-repeat
 
+.banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6
+  color: #fff !important
+
+.banner-interno__titulo__icono
+  background-color: #fff !important
+
+.banner-principal .tarjeta
+  background-color: #F0C861
+
 .titulo-principal__numero
   min-width: 45px
   height: 45px
@@ -198,7 +207,44 @@ tr, td
   
   .bg_img_10::before
     width: 70% !important
+    
+  .linea-tiempo-d__item__content__title
+    height: 75px
+    
+/* Media Query específico para pantallas de 320px o menos */
+@media (max-width: 375px)
+  .bgr_3
+    display: ''
+  
+  .bg_img_8::before
+    width: 100% !important
 
+  .bg_img_9::before
+    width: 100% !important
+  
+  .bg_img_10::before
+    width: 100% !important
+  
+  .linea-tiempo-d__item__content__title
+    height: auto
+
+/* Media Query específico para pantallas de 320px o menos */
+@media (max-width: 320px)
+  .bgr_3
+    display: ''
+  
+  .bg_img_8::before
+    width: 100% !important
+
+  .bg_img_9::before
+    width: 100% !important
+  
+  .bg_img_10::before
+    width: 100% !important
+  
+  .linea-tiempo-d__item__content__title
+    height: auto
+    
 // Colores de cajones
 
 .cajon.bg-1
@@ -212,6 +258,7 @@ tr, td
   background-color: #DDE5D3
   p
     margin-bottom: 0
+
 .cajon.bg-2::before
   background-color: #73964A
 
@@ -257,6 +304,10 @@ tr, td
 .tarjeta-numerada.bg-08 .tarjeta-numerada__numero div
   color: #ffffff
 
+.tarjeta-numerada
+  p
+    margin-bottom: 0
+
 // .tarjeta-numerada
 //   height: 115px !important
 //   p
@@ -283,11 +334,14 @@ tr, td
 .lista-ul--color li > i:first-of-type
   color: #8C492A
 
-.lista-ol--cuadro__vineta
-  background-color: #8C492A
+.lista-ul--color li div
+  display: inline-block
 
 .lista-ol--separador li, .lista-ul--separador li
   border-bottom: dashed 1px #b0c0d2
+
+.lista-ol--cuadro__vineta
+  backgound-color: #8C492A !important
 
 // Fondos de tarjetas
 .bg_img
@@ -344,6 +398,20 @@ tr, td
       width: calc(100% + 96px)
       height: 100%
       background-image: url(../assets/curso/temas/tema1/img_3.png) !important
+      background-repeat: no-repeat
+  &_6_4
+    position: relative
+    p, figure, h4, div
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 50%
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url(../assets/curso/temas/tema6/img_49.png) !important
       background-repeat: no-repeat
   &_1
     &::before
@@ -490,7 +558,7 @@ tr, td
       left: -48px
       width: 35%
       height: calc(100% + 40px)
-      background-color: #f1ef5f
+      background-color: #FFCE79
       border-top-right-radius: 30px
       border-bottom-right-radius: 30px
   &_9
@@ -505,7 +573,7 @@ tr, td
       left: -48px
       width: 35%
       height: calc(100% + 40px)
-      background-color: #f1ef5f
+      background-color: #FFCE79
       border-top-right-radius: 30px
       border-bottom-right-radius: 30px
   &_10
@@ -520,7 +588,7 @@ tr, td
       left: -48px
       width: 25%
       height: calc(100% + 40px)
-      background-color: #f1ef5f
+      background-color: #FFCE79
       border-top-right-radius: 30px
       border-bottom-right-radius: 30px
       

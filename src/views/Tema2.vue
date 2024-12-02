@@ -28,28 +28,28 @@
         .col-lg-12.mb-3
           p Nuestra historia está enmarcada por cuatro épocas, a saber:
 
-        .col-md-6.col-lg-3.mb-4
+        .col-md-6.col-lg-3.mb-4.h100
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
                 img(src="@/assets/curso/temas/tema2/img_2.svg", alt="alt").img90.m-auto
             h4.text-center Conquista española
             p.text-center.mb-0 1499 a 1550
-        .col-md-6.col-lg-3.mb-4
+        .col-md-6.col-lg-3.mb-4.h100
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
                 img(src="@/assets/curso/temas/tema2/img_3.svg", alt="alt").img90.m-auto
             h4.text-center Colonia
             p.text-center.mb-0 1550 a 1810
-        .col-md-6.col-lg-3.mb-4
+        .col-md-6.col-lg-3.mb-4.h100
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
                 img(src="@/assets/curso/temas/tema2/img_4.svg", alt="alt").img90.m-auto
             h4.text-center Independencia
             p.text-center.mb-0 1810 a 1819
-        .col-md-6.col-lg-3.mb-4
+        .col-md-6.col-lg-3.mb-4.h100
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure

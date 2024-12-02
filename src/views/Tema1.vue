@@ -170,13 +170,16 @@
         ul.lista-ul--color.lista-ul--separador
           li 
             i.fas.fa-check-circle
-            |	Medio: es el fluido que envuelve o rodea a los seres vivos, principalmente el agua (medio acuático) o el aire (medio aéreo).
+            div
+              <span class="text-marron text-bold">Medio:</span> es el fluido que envuelve o rodea a los seres vivos, principalmente el agua (medio acuático) o el aire (medio aéreo).
           li 
             i.fas.fa-check-circle
-            |	Sustrato: son las superficies donde se apoyan y desplazan los seres vivos, se caracterizan dentro de ellas las rocas y los suelos.
+            div
+              <span class="text-marron text-bold">Sustrato:</span> son las superficies donde se apoyan y desplazan los seres vivos, se caracterizan dentro de ellas las rocas y los suelos.
           li 
             i.fas.fa-check-circle
-            |	Factores ambientales: son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
+            div
+              <span class="text-marron text-bold">Factores ambientales:</span> son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
          
 
       .col-md-6.col-lg-4.mb-4
@@ -220,20 +223,24 @@
           li 
             .lista-ol--cuadro__vineta
               span a
-            |	Medio: es el fluido que envuelve o rodea a los seres vivos, principalmente el agua (medio acuático) o el aire (medio aéreo).
+            div
+              <span class="text-marron text-bold">Medio:</span> es el fluido que envuelve o rodea a los seres vivos, principalmente el agua (medio acuático) o el aire (medio aéreo).
           li 
             .lista-ol--cuadro__vineta
               span b
-            |	Sustrato: son las superficies donde se apoyan y desplazan los seres vivos, se caracterizan dentro de ellas las rocas y los suelos.
+            div
+              <span class="text-marron text-bold">Sustrato:</span> son las superficies donde se apoyan y desplazan los seres vivos, se caracterizan dentro de ellas las rocas y los suelos.
           li 
             .lista-ol--cuadro__vineta
               span c
-            |	Factores ambientales: son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
+            div
+              <span class="text-marron text-bold">Factores ambientales:</span> son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
 
           li 
             .lista-ol--cuadro__vineta
               span d
-            |	Factores ambientales: son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
+            div
+              <span class="text-marron text-bold">Factores ambientales:</span> son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -354,7 +361,7 @@
         p Llamamos contaminación a aquellos cambios, no deseables en nuestro entorno, de las características físicas, químicas y biológicas del aire, del agua y del suelo, que afectan al hombre, a las especies animales y a las vegetales.
 
       .col-lg-12.mb-4
-        .bloque-texto-g.bloque-texto-g--inverso.p-3.p-sm-4.p-md-5.bloque_fondo
+        .bloque-texto-g.bloque-texto-g--inverso.bg-03.p-3.p-sm-4.p-md-5.bloque_fondo
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_15.png')})`}"
           )

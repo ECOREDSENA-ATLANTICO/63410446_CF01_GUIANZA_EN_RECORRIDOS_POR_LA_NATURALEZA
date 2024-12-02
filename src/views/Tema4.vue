@@ -25,7 +25,7 @@
         .col-lg-12.mb-3
           .bloque-texto-g.bloque-texto-g.bg-14.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img(
-              :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img_2.svg')})`, width: '35%'}"
+              :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img_2.svg')})`}"
             )
             .bloque-texto-g__texto.p-4
               p.mb-0 El programa “No Deje Rastro”, fue creado para ayudar a los visitantes en áreas silvestres protegidas a tomar decisiones adecuadas sobre sus propias acciones. Los principios NDR deben servir para desarrollar una conciencia y criterio y no son leyes ni reglamentos. El programa no se trata de prohibir comportamientos específicos, pero al contrario se trata de entregar las bases ecológicas generales para que en cada situación o cada medio ambiente el usuario de áreas silvestres cuenta con la orientación necesaria para tomar una buena decisión.

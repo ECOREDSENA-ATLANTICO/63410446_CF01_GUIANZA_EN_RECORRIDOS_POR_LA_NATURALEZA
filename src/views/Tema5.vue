@@ -73,13 +73,16 @@
           ul.lista-ul--color.lista-ul--separador
             li 
               i.fas.fa-check-circle
-              |	Legal: el apoyo de la ley para que se minimicen impactos
+              div
+                <span class="text-marron text-bold">Legal:</span> el apoyo de la ley para que se minimicen impactos
             li 
               i.fas.fa-check-circle
-              |	Ecológico:  los impactos ponen en peligro la integridad y valor de las áreas silvestres protegidas, como un "control" para poder comparar a los ambientes alterados por el hombre
+              div
+                <span class="text-marron text-bold">Ecológico:</span>  los impactos ponen en peligro la integridad y valor de las áreas silvestres protegidas, como un "control" para poder comparar a los ambientes alterados por el hombre
             li 
               i.fas.fa-check-circle
-              |	Social:  los impactos reducen la satisfacción del visitante por dificultar el viajar (senderos erosionados) o perjudican la experiencia de la perspectiva estética. <br>De los estudios realizados podemos sacar dos conclusiones que han guiado la definición de los principios de NDR. <br>La relación entre uso e impacto es curvilínea; dispersar el uso funciona únicamente cuando el nivel de uso es bastante bajo, la concentración de uso funciona mejor para uso de moderado a alto.
+              div
+                <span class="text-marron text-bold">Social:</span>  los impactos reducen la satisfacción del visitante por dificultar el viajar (senderos erosionados) o perjudican la experiencia de la perspectiva estética. <br>De los estudios realizados podemos sacar dos conclusiones que han guiado la definición de los principios de NDR. <br>La relación entre uso e impacto es curvilínea; dispersar el uso funciona únicamente cuando el nivel de uso es bastante bajo, la concentración de uso funciona mejor para uso de moderado a alto.
           
 
     .row.justify-content-center.align-items-center.mb-4
@@ -177,10 +180,12 @@
         ul.lista-ul--color.lista-ul--separador
           li 
             i.fas.fa-check-circle
-            |	Seguido por una fase de estabilidad <br> Poco impacto adicional debido al uso continuado. Los sitios que se deterioran mucho son clausurados y no se recuperan y no se sabe, porque no hay una recuperación espontánea, actualmente es el techo de la investigación. Están tratando de acercar el tema a la parte química. El peor de todos los casos es el alto uso esparcido, impacto por todos lados, para ocupar el esparcimiento.
+            div
+              <span class="text-marron text-bold">Seguido por una fase de estabilidad</span> <br> Poco impacto adicional debido al uso continuado. Los sitios que se deterioran mucho son clausurados y no se recuperan y no se sabe, porque no hay una recuperación espontánea, actualmente es el techo de la investigación. Están tratando de acercar el tema a la parte química. El peor de todos los casos es el alto uso esparcido, impacto por todos lados, para ocupar el esparcimiento.
           li 
             i.fas.fa-check-circle
-            |	Si el sitio es clausurado <br>La recuperación puede ocurrir. Este es un estado que queremos evitar porque la recuperación es mucho más lenta que el impacto en el sitio alternativo que va a recubrir el uso mientras el primer sitio recupere. Por eso los administradores deben intentar endurecer sitios establecidos o limitar cantidad tipo de uso para no clausurar sitios y entrar en un ciclo de rotación.
+            div
+              <span class="text-marron text-bold">Si el sitio es clausurado</span> <br>La recuperación puede ocurrir. Este es un estado que queremos evitar porque la recuperación es mucho más lenta que el impacto en el sitio alternativo que va a recubrir el uso mientras el primer sitio recupere. Por eso los administradores deben intentar endurecer sitios establecidos o limitar cantidad tipo de uso para no clausurar sitios y entrar en un ciclo de rotación.
       
         .cajon.bg-2.g_18.mb-3
           .row.mb-4
@@ -202,7 +207,7 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 En los Estados Unidos, los impactos por uso recreativo se han acrecentado con el tiempo. Es más, porque nuevos sitios comienzan a ser impactados más que por un deterioro de sitios ya definidos.
-
+            br
             p Para finalizar, los administradores deben identificar las estrategias que tienen posibilidad de ser eficaces, con el menor número de efectos laterales o posibles de realizar, dados los recursos actuales de la administración y que colectivamente tienen el menor efecto en los visitantes.
         
 

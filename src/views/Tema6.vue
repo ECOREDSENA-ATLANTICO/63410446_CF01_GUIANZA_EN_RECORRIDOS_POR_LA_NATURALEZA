@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema6/img_1.png', alt='Texto que describa la imagen').mx-auto
 
-    .bg_img_6_1.mb-2
+    .bg_img_6_4.mb-2
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 1: Planifique y prepare su viaje con anticipación
@@ -122,7 +122,7 @@
           h4.mb-2.text-verde.text-center Áreas de bajo uso, practique lo siguiente:
 
         .col-lg-11.mb-2
-          SlyderF(columnas="col-lg-6 col-xl-4")
+          SlyderF(columnas="col-md-6 col-lg-6 col-xl-4")
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
                 .col-8.text-center
@@ -333,8 +333,8 @@
           img(src="@/assets/curso/temas/tema6/img_21.png", alt="alt")
 
       .col-lg-12.col-xl-8.mb-2
-        h4.mb-2.text-verde Lo que lleve, regréselo:
-        ul.lista-ul--color.lista-ul--separador
+        h4.mb-4.text-verde Lo que lleve, regréselo:
+        ul.lista-ul--color.lista-ul--separador.mb-3
           li 
             i.fas.fa-check-circle
             |	Reduzca la basura en su origen.
@@ -342,8 +342,8 @@
             i.fas.fa-check-circle
             |	Evite quemar y enterrar desperdicios.
 
-        h4.mb-2.text-verde Técnicas de higiene personal:
-        ul.lista-ul--color.lista-ul--separador
+        h4.mb-4.text-verde Técnicas de higiene personal:
+        ul.lista-ul--color.lista-ul--separador.mb-3
           li 
             i.fas.fa-check-circle
             |	Proteja las fuentes de agua dulce. 
