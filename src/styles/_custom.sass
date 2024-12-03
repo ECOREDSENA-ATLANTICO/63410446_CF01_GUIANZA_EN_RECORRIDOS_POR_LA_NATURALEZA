@@ -102,6 +102,15 @@ tr, td
 .bg-17
   background-color: #28341A
 
+.bg-18
+  background-color: #D5DFC8
+  border: 2px solid #73964A
+
+.bg-19
+  background-color: #FFF0D6
+  border: 2px solid #FFCE79
+
+
 .bg-transparente
   background-color: transparent
 
@@ -173,6 +182,12 @@ tr, td
   .bg_img_10::before
     width: 35% !important
 
+  .ordenar_tarjetas  
+    .pos_2
+      order: 1
+    .pos_1
+      order: -1
+
 /* Media Query para pantallas de 768px o menos */
 @media (max-width: 768px)
   .bgr_3
@@ -184,6 +199,10 @@ tr, td
   .ordenar_tarjeta_lg
     .col-md-8.col-lg-6.col-xl-4
       order: -1
+
+  .ordenar_tarjetas  
+    .pos_2
+      order: 1
   
   .bg_img_8::before
     width: 35% !important

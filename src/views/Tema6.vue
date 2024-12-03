@@ -7,7 +7,7 @@
         span 6
       h1 Fundamentación científica
     
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-5
         figure
           img(src='@/assets/curso/temas/tema6/img_1.png', alt='Texto que describa la imagen').mx-auto
@@ -18,7 +18,7 @@
           h3.bgr_3.position-relative Principio 1: Planifique y prepare su viaje con anticipación
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
 
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-lg-12.mb-2
           p Realizar actividades al aire libre con impacto mínimo, depende más de actitudes y conciencia que de leyes y reglamentos. Minimizar el impacto comienza con una planificación cuidadosa antes de partir, tomando en cuenta todo efecto posible de su presencia en el lugar. Si se planifica con anticipación un viaje, se puede asegurar en principio su seguridad y comodidad. Tenga en cuenta los siguientes puntos en sus planes para evitar impactos negativos en la naturaleza.
         
@@ -56,7 +56,7 @@
               i.fas.fa-check-circle
               |	Si se comunica con el personal encargado de la administración del área es fácil de adquirir la información indicada.
 
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .col-lg-12.col-xl-8.mb-2
         h4.mb-2.text-verde Utilice equipo adecuado 
         p Llevar el equipo adecuado minimiza la posibilidad de enfrentar situaciones de sobrevivencia donde uno tiene que priorizar la seguridad personal sobre la conservación del área. 
@@ -74,7 +74,7 @@
           img(src="@/assets/curso/temas/tema6/img_3.png", alt="alt")
 
     .bg_img_5.mb-5
-      .row.justify-content-center.align-items-center.mb-1
+      .row.justify-content-center.align-items-center.mb-1(data-aos="zoom-in-down")
         .col-lg-12.mb-2
           h4.mb-2.text-verde Reduzca la basura que va a llevar 
           p Esto hace posible dejar en casa una gran cantidad de basura potencial y reducir el peso y el volumen de la mochila.
@@ -85,7 +85,7 @@
           h4.mb-2.text-verde Asegúrese de que domina las técnicas necesarias 
           p Es importante adquirir bastante información sobre el terreno por el cuál transitará para asegurar que su grupo domina las técnicas indicadas y la condición física necesaria para enfrentar las exigencias del lugar en forma segura sin perjudicar el medio ambiente. Por ejemplo, si sabe utilizar un mapa y brújula, se vuelve innecesario marcar su ruta con montones de piedras o banderitas. Cada ambiente o actividad requiere de una destreza particular.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 2: Viaje y acampe en superficies resistentes
@@ -117,7 +117,7 @@
             |	Deje limpio y mejor de cómo encontró el lugar.
 
     .bg_img_6_1.mb-4
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-lg-12.mb-2
           h4.mb-2.text-verde.text-center Áreas de bajo uso, practique lo siguiente:
 
@@ -165,7 +165,7 @@
               h4 Limpieza
               p Deje limpio y mejor de cómo encontró el lugar.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-2
         p.mb-3 El viajar y acampar requiere de la toma de decisiones, para seleccionar el sitio más apropiado para causar el menor daño al ambiente. Las estrategias a aplicar van a depender no sólo del ecosistema que visita, sino también los patrones de uso en el área.
         p En áreas de alto uso, se deben concentrar las actividades en rutas y sitios establecidos para no ampliar el área total impactada dentro de la zona. En áreas menos frecuentadas o vírgenes la estrategia indicada es esparcir sus actividades para no crear impactos duraderos ni áreas 
@@ -178,7 +178,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 En todo caso, es importante evitar áreas donde el impacto apenas empieza y dejar que los sitios se recuperen en vez de convertirse en sitios establecidos en nuevas áreas de sacrificio. En toda área es importante evitar sitios frágiles y proteger las fuentes de agua dulce.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-md-12.col-lg-12.mb-5
         .bg_img_8
             h4.color-primario Áreas de alto uso
@@ -204,7 +204,7 @@
         figure
           img(src="@/assets/curso/temas/tema6/img_12.png", alt="alt").mx-auto
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-md-12.col-lg-12.mb-5
         .bg_img_9
             h4.color-primario Áreas vírgenes o poco frecuentadas 
@@ -254,7 +254,7 @@
         p Si necesariamente tiene que viajar por esa área, busque superficies resistentes (rocas, nieve, etc.), disperse el impacto y no camine directamente hacia arriba o abajo de la pendiente sino use la técnica de <em>zigzag</em>.
 
     .bg_img_5.mb-5
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-lg-12.col-xl-8.mb-2
           h4.mb-2.text-verde Selección del sitio para acampar 
           p.mb-3 Si usted decide acampar en zonas de poco uso, tome como guía la siguiente filosofía: El mejor sitio se encuentra, no se hace.
@@ -273,7 +273,7 @@
           p.mb-3 Cada una de las mochilas deben colocarse en sitios aparte, así se esparce el pisoteo en una misma zona del campamento. Use calzado de suela blanda y camine por áreas de tierra o roca o varíe su ruta entre las distintas zonas del campamento. De tal forma se pueda evitar el hacer senderos entre ellas.
           p El tiempo de permanencia de un campamento en área prístina o virgen, depende de la habilidad del sitio para resistir el uso y de las condiciones de seguridad del grupo. En general, es mejor no planificar estadías de más de dos noches cuando se está aplicando la estrategia de esparcir el impacto.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-md-8.col-lg-6.col-xl-4.mb-2
         figure
           img(src="@/assets/curso/temas/tema6/img_18.png", alt="alt")
@@ -287,7 +287,7 @@
               p Esparza material original en las áreas para que se vean limpias, borre las huellas de las pisadas y rastrille con una vara los sitios de pasto que fueron dañados.
     
     .bg_img_0.mb-2
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-lg-12.mb-2
           h4.mb-2.text-verde Evite los lugares donde el impacto apenas empieza
 
@@ -300,7 +300,7 @@
               p.mb-0 Los sitios de acampar no se convierten en zonas de sacrifico ni en sitios establecidos después de una noche de uso, sino que el mayor riesgo se tiene al sentar el precedente de la existencia de un campamento. Una vez que exista la evidencia de que alguien ha acampado en dicho lugar, abre las puertas para que otros lo hagan y el uso repetido del mismo (aprox. 12 noches por año en bosques templados) crea áreas de suelo compactado que imposibilita el crecimiento de las plantas y facilita el proceso de erosión.
     
     .bg_img_5.mb-5
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         .col-lg-12.mb-2
           p.mb-3 Si encuentra un sitio de campamento que muestre signos donde el impacto apenas empieza, no lo utilice y trate de borrar lo más posible las huellas del uso. En áreas de alto uso, ocupe mejor en sitio bien establecido en la zona. En áreas vírgenes, es mejor salir de la zona cercana al sitio incipiente para ubicar su campamento.
           p Evita también utilizar los senderos incipientes, utilice la técnica de dispersar el impacto o seleccione una superficie durable. Una vez que el sendero es establecido y el suelo es removido, el daño que causa el agua al correr por esa superficie incrementa el riesgo de convertirlo en permanente.
@@ -319,7 +319,7 @@
           figure
             img(src="@/assets/curso/temas/tema6/img_20.png", alt="alt")
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 3: Disponga de desperdicios de la manera más apropiada
@@ -357,7 +357,7 @@
             i.fas.fa-check-circle
             |	Lo que lleve, regréselo. Esta es una frase simple que recuerda a todo campista de regresar a casa toda la basura que ha producido en el campo. 
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-md-12.col-lg-12.mb-5
         .bg_img_10
             h4.color-primario Lo que lleve, regréselo
@@ -425,7 +425,7 @@
                   p Las fogatas no consumen o queman totalmente los alimentos por lo cual este es un método ineficaz de disponer de ellos. El enterrar los desperdicios puede llamar la atención de animales que escarban y termina esparcido por toda el área.
 
     .bg_img_5.mb-5
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
         .col-md-12.col-lg-12.mb-5
           .bg_img_10
               h4.color-primario Técnicas de higiene
@@ -457,7 +457,7 @@
               p.mb-0 Cuando usa jabón para el aseo personal, es importante llevar uno biodegradable y bañarse utilizando agua acarreada, lejos de la fuente de agua. Siempre lave muy bien sus manos con agua y jabón luego de ir al baño ya que eliminará fuentes de infección.
               p En el caso de la limpieza de utensilios de cocina, lavar con agua caliente es suficiente para dejarlos limpios. Agregar unas gotas de cloro al agua con la que se enjuaga, puede evitar la proliferación de bacteria que producen enfermedades gastrointestinales.
     
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-4
         h4.text-verde Desechos humanos 
         p Los desechos humanos, en particular las heces fecales, son una fuente de posible contaminación de las áreas silvestres. No sólo producen la proliferación de patógenos por insectos y animales, sino que además son un impacto visual muy negativo. Por ello, es de suma importancia que aplique algunas técnicas que ayuden a hacer más efectiva la descomposición de los desechos humanos y minimicen su impacto en el ecosistema.
@@ -501,7 +501,7 @@
           row(numero="6" titulo="La orina")
             p A diferencia de las heces fecales, la orina de un individuo es básicamente estéril y tiene poco efecto sobre la vegetación, suelos o fuentes de agua. Sin embargo, en ambientes que carecen de sales, la orina puede atraer la atención de animales, por lo que se recomienda esparcirla en un área amplia y evitar así los malos olores.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 4. Respete la vida silvestre
@@ -530,7 +530,7 @@
         p.mb-2 Camine sin hacer ruidos y mantenga la distancia necesaria para que los animales se sientan seguros. Con sus binoculares o con la lente telescópica de su cámara podrá disfrutar, observar y fotografiar la vida silvestre a distancia y ayudar a mantener silvestres a los animales silvestres. El provocar que los animales huyan, el perseguirlos, alimentarlos o atraerlos son todas acciones que comprometen la habilidad de éstos para comportarse según sus patrones naturales. El tocar o atrapar a un animal silvestre constituye una doble amenaza. En primer lugar, lo pone en estrés y es posible que un animal que permite que se le acerquen los humanos tenga rabia o sea portador de otras enfermedades.
 
     .bg_img_5_5.mb-5
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-md-8.col-lg-6.col-xl-5.mb-2
           figure
             img(src="@/assets/curso/temas/tema6/img_31.png", alt="alt")
@@ -544,7 +544,7 @@
                 p En algunos casos pueden solo ser ardillas, venados o animales menores, pero otros podrían poseer un carácter más agresivo y ser capaces de atacar para alcanzar su alimento, lastimando a todos aquellos que encuentren a su paso. Desafortunadamente también se convierten en animales "problema", que finalmente son trasladados del área o simplemente asesinados debido a una falta de consciencia y descuido de parte de los visitantes al área.
 
     .bg_img_6_2.mb-5.p-4
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         .col-lg-12.col-xl-8.mb-2        
 
           h4.mb-2.text-verde No mate los animales 
@@ -560,7 +560,7 @@
           figure
             img(src="@/assets/curso/temas/tema6/img_32.png", alt="alt")
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-2
         h4.mb-2.text-verde Prevenga contaminación innecesaria 
         p.mb-2 Camine sin hacer ruidos y mantenga la distancia necesaria para que los animales se sientan seguros. Con sus binoculares o con la lente telescópica de su cámara podrá disfrutar, observar y fotografiar la vida silvestre a distancia y ayudar a mantener silvestres a los animales silvestres. El provocar que los animales huyan, el perseguirlos, alimentarlos o atraerlos son todas acciones que comprometen la habilidad de éstos para comportarse según sus patrones naturales. El tocar o atrapar a un animal silvestre constituye una doble amenaza. En primer lugar, lo pone en estrés y es posible que un animal que permite que se le acerquen los humanos tenga rabia o sea portador de otras enfermedades.
@@ -576,7 +576,7 @@
       .col-lg-12.mb-2
         p En algunos casos, no es posible recuperar del daño, y el resultado es la extinción de especies nativas. Ayude a parar la destrucción debida a la introducción de especies ajenas al lugar. En algunos casos Ud. puede hasta eliminar especies exóticas que se han establecido en las áreas naturales protegidas.
 
-    .row.justify-content-center.align-items-center.mb-4 
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 5. Minimice el impacto de fogatas
@@ -623,11 +623,11 @@
             |	Use la fogata de plataforma en zonas de bajo uso. 
 
     .bg_img_5_5.mb-5
-      .row.justify-content-center.align-items-center.mb-2.ordenar_tarjeta_lg
+      .row.justify-content-center.align-items-center.mb-2.ordenar_tarjetas(data-aos="zoom-in-down")
         .col-lg-12.mb-3
           h4.mb-2.text-verde Conozca los reglamentos y las condiciones del tiempo
           
-        .col-lg-12.col-xl-8.mb-2
+        .col-lg-12.col-xl-8.mb-2.pos_2
           p.mb-3 Siempre que prenda un fuego debe hacerlo tomando en cuenta las reglas existentes, las condiciones del lugar y del tiempo, la disponibilidad de leña y sus propias destrezas. En los meses de mayor lluvia, lleve con usted leña seca o vaya recolectando ramas secas de lugares protegidos de la lluvia mientras camina. En los meses secos, las probabilidades de fuegos forestales aumentan, por lo tanto, haga fuegos pequeños y manténgalos controlados. Puede que los fuegos estén prohibidos en las épocas de sequía.
 
           .cajon.bg-1.g_18.mb-3
@@ -642,7 +642,7 @@
             img(src="@/assets/curso/temas/tema6/img_35.png", alt="alt")
 
     .bg_img_6_3.mb-5.p-4
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
             img(src="@/assets/curso/temas/tema6/img_36.png", alt="alt")
@@ -670,7 +670,7 @@
               p A lo largo de los ríos o en las orillas del mar, se pueden hacer fuegos cavando pequeñas depresiones en la arena. Asegúrese de que lo hace en un lugar que se inunda con la marea alta o con el flujo máximo del río. Cuando el carbón se haya hecho cenizas y el fuego esté totalmente apagado, remueva las cenizas, riéguelas ampliamente y cubra de nuevo la depresión. Si hace lo anterior con cuidado dejará muy poca evidencia de su uso, y la misma será borrada al lavarse con la marea alta. Deje solo un poco de ceniza para ser llevada por la crecida.
 
     .bg_img_0.mb-2
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-lg-12.col-xl-7.mb-2
           h4.mb-2.text-verde Fogata de plataforma es la técnica indicada en zonas poco frecuentadas 
           p.mb-2 Usted puede hacer una plataforma o montículo de arena o tierra mineral que sirva de aislador para el fuego y que se pueda disimular fácilmente cuando termine.
@@ -685,7 +685,7 @@
           figure
             img(src="@/assets/curso/temas/tema6/img_37.png", alt="alt")
 
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-2.ordenar_tarjetas(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 6. Considere a otros visitantes
@@ -695,7 +695,7 @@
         p.mb-2 Un problema con la recreación en algunas áreas naturales es que vienen distintos grupos de visitantes con distintos fines. Para amortiguar potenciales conflictos entre los visitantes, todos que vienen a disfrutar del área, es importante no pensar solamente en satisfacer sus necesidades particulares y momentáneas sino hacer un esfuerzo para que el provecho que uno saca de su visita a un área natural no perjudique el disfrute de otros.
         p Nunca olvide que sólo se está de visita y que por lo tanto el objetivo es no solo conservar el sitio como lo encontró, sino también minimizar su disturbio del entorno durante su estadía. Tenga en cuenta los siguientes puntos para minimizar el impacto de su visita.
 
-      .col-lg-12.col-xl-8.mb-3
+      .col-lg-12.col-xl-8.mb-3.pos_2
         h4.mb-2.text-verde Maximice la sensación de estar rodeado por la naturaleza 
         p.mb-2 Guarde silencio y trate de armonizar con el paisaje circundante. Las radios portátiles son una invasión innecesaria de la ciudad en los lugares silvestres. La intrusión causada por el ruido que estos artefactos producen, perturbará la paz que otros visitantes desean disfrutar. 
         p.mb-2 Además, los ruidos fuertes y la música perturban la vida silvestre. Si lleva una radio consigo, use audífonos para no molestar a otros y úselos con discreción. Considere su utilidad en un ambiente silvestre y si de verdad contribuyen a su experiencia para disfrutar de la naturaleza o si, por el contrario, le restan el poder de disfrutar de ésta.
@@ -705,7 +705,8 @@
       .col-md-8.col-lg-6.col-xl-4.mb-3
         figure
           img(src="@/assets/curso/temas/tema6/img_38.png", alt="alt").mb-2
-
+    
+    .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .col-lg-12.mb-2
         .tarjeta.fondo_1_2.p-4.slyder_1.bg-01.mb-3
           SlyderA(tipo="b")
@@ -745,7 +746,7 @@
                   h3.mb-2 Muestre respeto por la naturaleza
                   p El conservar todas las facilidades en buen estado estimulará a otros a hacer lo mismo. Utilice los baños públicos como si estuviera en su propia casa, no pinte ni deje grafitis o marcas en las paredes. Nunca use cuchillos, machetes o pintura en estructuras de uso público ni en los árboles. No destruya la naturaleza circundante para fabricar sillas temporales para su comodidad momentánea.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 7. Deje lo que encuentre

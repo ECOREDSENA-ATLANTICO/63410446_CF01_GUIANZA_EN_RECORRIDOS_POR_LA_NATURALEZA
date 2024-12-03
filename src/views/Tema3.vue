@@ -7,7 +7,7 @@
         span 3
       h1 Legislación ambiental
       
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-3
         figure
           img(src="@/assets/curso/temas/tema3/img_1.png", alt="alt").mx-auto
@@ -15,7 +15,7 @@
       .col-lg-12.mb-3
         p La legislación ambiental o derecho ambiental es un complejo conjunto de tratados, convenios, estatutos, reglamentos, y el derecho común que, de manera muy amplia, funcionan para regular la interacción de la humanidad y el resto de los componentes biofísicos o el medio ambiente natural, hacia el fin de reducir los impactos de la actividad humana, tanto en el medio natural y en la humanidad misma.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-md-8.col-lg-4.mb-2
         figure
           img(src="@/assets/curso/temas/tema3/img_2.png", alt="alt")
@@ -27,7 +27,7 @@
               p Las leyes sobre conservación de los recursos y la gestión se centran generalmente en un solo recurso – por ejemplo, los recursos naturales como los bosques, yacimientos minerales o animales, o más recursos intangibles tales como las zonas especialmente escénicas o los sitios de alto valor arqueológico y proporcionan directrices y limitaciones sobre la conservación, alteración y uso de esos recursos. Muchas leyes que no son exclusivamente “ambientales” sin embargo, contienen importantes componentes del medio ambiente e integran las decisiones de política ambiental. Las leyes municipales, estatales y nacionales en materia de desarrollo, uso del suelo y la infraestructura son algunos ejemplos.
 
     .bg_img_3_1
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         .col-lg-12.mb-3
           .bloque-texto-g.bloque-texto-g--inverso.bg-09.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img(
@@ -37,12 +37,12 @@
               p.mb-0 El derecho ambiental se nutre de la influencia de los principios del ambientalismo, ecología, conservación, administración, responsabilidad y sostenibilidad. Respecto al control de la contaminación en general, las leyes tienen por objeto (a menudo con distintos grados de énfasis del autor) proteger y preservar el ambiente natural y la salud humana. La conservación de los recursos y las leyes de equilibrio general de gestión (una vez más, a menudo con distintos grados de énfasis) tienen como beneficios la conservación y la explotación económica de los recursos. 
       
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-3
         p.mb-3 Desde una perspectiva económica legislación ambiental puede ser entendida como interesada en la prevención de las externalidades presentes y futuras, y la preservación de los recursos comunes del agotamiento individual.
         p Las limitaciones y los gastos que tales leyes pueden imponer sobre el comercio y los beneficios no cuantificables a menudo (no monetarios) de la protección del medio ambiente, han generado y siguen generando gran controversia.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-md-8.col-lg-5.mb-3
         figure
           img(src="@/assets/curso/temas/tema3/img_4.png", alt="alt")

@@ -7,7 +7,7 @@
         span 1
       h1 Ecología y recursos naturales
       
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-5
         .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -17,7 +17,7 @@
             p.mb-0 La ecología y el uso responsable de los recursos naturales son esenciales para el futuro del planeta. Los guías turísticos, como defensores del medioambiente, deben inspirar a los visitantes a preservar la naturaleza, promoviendo una convivencia sostenible y armoniosa con el entorno. Además, deben asumir un papel activo en la educación ambiental, enseñando a los visitantes la importancia de conservar estos recursos y vivir en equilibrio con el ecosistema.
 
     .bg_img_0.mb-2
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-md-8.col-lg-5.mb-2
           figure
             img(src="@/assets/curso/temas/tema1/img_2.png", alt="alt")
@@ -34,7 +34,7 @@
               .col-lg-12.p-4.ps-5 
                 p La palabra Ecología proviene del griego <em>«οίκος» oikos</em>, que significa lugar donde se habita y/o casa, y λóγος» logos, que significa estudio. Etimológicamente significa, el estudio del lugar donde se habita. Parece ser que esta definición fue la primera publicada en el año de 1869 por el destacado zoólogo Alemán Ernst Haeckel.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Concepto 
@@ -46,7 +46,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/img_4.png", alt="alt")
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Niveles de organización de la ecología 
@@ -69,7 +69,7 @@
           img(src="@/assets/curso/temas/tema1/img_5.png", alt="")
 
     .bg_img_5.mb-5
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         h5.mb-5.text-center Debe tenerse en cuenta que un determinado clima se acompaña de una vegetación característica. Por ejemplo:
         .row.justify-content-center.mb-3
           .col-md-6.col-lg-4.mb-4
@@ -138,7 +138,7 @@
             .bloque-texto-g__texto.p-4
               p.mb-0 <b>Biosfera:</b> son todos lo biomas que hay en el planeta, el mayor ecosistema existente. Constituye una unidad indisociable junto a su entorno. La biosfera es el mayor nivel que alcanza la organización ecológica, es decir, un supra sistema que encierra a sistemas (biomas) de niveles inferiores. A su vez estos últimos incluyen a diversos subsistemas (ecosistemas). <br>La biosfera es la porción de la Tierra (agua, aire y suelo) habitada por plantas, animales y microrganismos. Abarca desde una altura de 10 kilómetros en la atmósfera hasta lo más profundo de los océanos.
     
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-md-8.col-lg-6.col-xl-4.mb-2
         figure
           img(src="@/assets/curso/temas/tema1/img_7.png", alt="alt").mx-auto
@@ -151,12 +151,12 @@
             .col-lg-12.p-4.ps-5 
               p Los ecosistemas son sistemas complejos, por lo que cualquier variación que ocurra en uno de sus componentes traerá consecuencias en todos los demás componentes. Por esa razón es importante saber las distintas relaciones que se establecen entre los seres vivos y su entorno. <br> Recuerde que la ecología es la rama de las ciencias biológicas que estudia los ecosistemas, es decir, las relaciones recíprocas entre los seres vivos, su medio y las relaciones que establecen entre ellos. 
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12
         p.mb-2 Los ecosistemas se estudian analizando las cadenas alimentarias, los ciclos de la materia y los flujos de energía. La importancia del concepto ecosistema radica en que “todo se relaciona con todo”. Los componentes de un ecosistema están interrelacionados y esa interrelación es esencial para la vida. Debido a que no existe una parte independiente de otra, ninguna puede ser modificada sin afectar a las otras. El bosque es un ejemplo de ecosistema, compuesto por el suelo, aire, nutrientes y agua donde cohabitan árboles, pasturas, aves, insectos, hongos y bacterias, entre otros factores bióticos.
         p La consecuencia inmediata, por ejemplo, de la tala de árboles es la pérdida del hábitat de las aves, la erosión de los suelos, la acumulación de agua de lluvia y el desplazamiento de los nutrientes del suelo.
       
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .col-lg-12.col-xl-8.mb-2
         .cajon.bg-2.g_18.mb-3
           .row.mb-4
@@ -187,7 +187,7 @@
           img(src="@/assets/curso/temas/tema1/img_8.png", alt="alt").mx-auto
 
     .bg_img_5_5
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
 
         h4.mb-4.text-center Dentro de los primeros se encuentran:
 
@@ -214,7 +214,7 @@
                 h4.mb-3 Factores hidrológicos
                 p Dependientes del agua.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-10
 
         h4.mb-3.text-center Cuando de ecosistemas se trata, hay ciertos términos que se utilizan y es preciso conocer:
@@ -243,7 +243,7 @@
               <span class="text-marron text-bold">Factores ambientales:</span> son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
 
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-12.mb-4
         h5.text-center En síntesis, todos los factores ambientales abióticos y bióticos influyen sobre los seres vivos, teniendo éstos que adaptarse a sus variaciones:
 
@@ -265,14 +265,14 @@
           row(numero="4" titulo="Nicho ecológico")
             p Es la forma en que cada especie o población aprovecha los recursos (alimentos, agua) y las condiciones de su hábitat (temperatura, humedad, velocidad de las corrientes de agua) para poder crecer, vivir y reproducirse.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12
         .cajon.bg-2.g_18.mb-3
           .row.mb-4
             .col-lg-12.p-4.ps-5 
               p Por último, ya sabemos que los individuos de una misma especie forman poblaciones, y que varias poblaciones que habitan en un mismo lugar dan lugar a las comunidades. También sabemos que las comunidades vegetal y animal en interrelación permanente con los factores abióticos donde viven forman el ecosistema. El tamaño de un ecosistema puede ser tan pequeño como el tronco de un árbol o tan inmenso como el mar.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-12.mb-3 
         .bloque-texto-g.bloque-texto-g.bg-04.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -285,7 +285,7 @@
         p Los límites de los ecosistemas terrestres pueden distinguirse a partir del tipo de vegetación predominante. Tal el caso de los bosques, con sus numerosos árboles donde las copas forman un estrato, o una pradera donde abundan las pasturas bajas. Los accidentes geográficos que ofrecen una montaña, una playa o un lago son también una ayuda para establecer los límites de un ecosistema.
 
     
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .col-lg-12.mb-3 
         h4.mb-3.text-center Para recordar
   
@@ -351,7 +351,7 @@
                   li Océanos
                   li Mares
               
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Contaminación 
@@ -391,7 +391,7 @@
           img.mb-3(src='@/assets/curso/temas/tema1/img_16.png', alt='La clasificación de los alimentos se detallan a continuación.').mx-auto
           figcaption Nota: Sena (2012)
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Recursos naturales 
@@ -426,7 +426,7 @@
 
             p.text-center Son organismos que se pueden descomponer por la acción natural de organismos vivos, como lombrices, hongos, y bacterias. Existen problemas cuando la cantidad de contaminantes supera la cantidad de organismos descomponedores. Los materiales biodegradables derivan de elementos orgánicos, como el papel, el cartón, los restos de animales y vegetales. 
 
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Área natural 
@@ -440,7 +440,7 @@
         p Por medio del Código Nacional de Recursos Naturales Renovables y de Protección del Medio Ambiente, Decreto 2811 de 1974, el sistema de parques nacionales se clasifica de acuerdo con los siguientes tipos de áreas:
 
     .bg_img
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
         .tarjeta.fondo_1_2.p-4.slyder_1.bg-01
           SlyderA(tipo="b")
             .tarjeta.bg-01.p-3
@@ -490,7 +490,7 @@
                   h3.mb-2 Vía Parque
                   p Faja de terreno con carretera, que posee bellezas panorámicas singulares o valores naturales o culturales, conservada con fines de educación y esparcimiento.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-12.mb-3
         p Colombia es uno de los países potencialmente “Mega-diversos biológica y culturalmente” del mundo. Representado en 59 Áreas Naturales a 2014, pertenecientes al sistema de Parques Nacionales Naturales.
 
@@ -510,7 +510,7 @@
                     i.fas.fa-link
 
     .bg_img_5
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         h5.mb-5.text-center Así mismo según el Decreto 2372 de 2010 las categorías de áreas protegidas que conforman el SINAP «Sistema Nacional de Áreas Protegidas» son:
         .col-md-12.col-lg-10
           .row.justify-content-center.mb-3

@@ -7,7 +7,7 @@
         span 5
       h1 Fundamentación científica
       
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-5
         .bloque-texto-g.bloque-texto-g.bg-15.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -22,7 +22,7 @@
           h3.bgr_3.position-relative Ecología de la recreación
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
 
-      .row.justify-content-center.align-items-center.mb-2
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-lg-12.col-xl-8.mb-2
           .cajon.bg-1.g_18.mb-3
             .row.mb-4
@@ -36,7 +36,7 @@
           figure
             img(src="@/assets/curso/temas/tema5/img_2.png", alt="alt")
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Concepto 
@@ -65,8 +65,8 @@
 
 
 
-    .bg_img_4.mb-2.p-4
-      .row.justify-content-center.align-items-center.mb-3
+    .bg_img_4.mb-0.p-4
+      .row.justify-content-center.align-items-center.mb-1(data-aos="zoom-in-down")
         .col-lg-10.mb-3
           h4.mb-4.text-center.text-verde La importancia de un impacto a las áreas silvestres
 
@@ -84,8 +84,24 @@
               div
                 <span class="text-marron text-bold">Social:</span>  los impactos reducen la satisfacción del visitante por dificultar el viajar (senderos erosionados) o perjudican la experiencia de la perspectiva estética. <br>De los estudios realizados podemos sacar dos conclusiones que han guiado la definición de los principios de NDR. <br>La relación entre uso e impacto es curvilínea; dispersar el uso funciona únicamente cuando el nivel de uso es bastante bajo, la concentración de uso funciona mejor para uso de moderado a alto.
           
+    .row.mb-3(data-aos="zoom-in-down")
+      .col-md-6.col-lg-6.mb-5
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema5/img_14.png' alt='AvatarTop')
+          .tarjeta.bg-18
+            .p-4
+              h5.text-center La influencia de la cantidad de uso en la cantidad de impacto
+              p Relación es "asintótica"-- diferencias en la cantidad de uso tienen un fuerte efecto en la cantidad de impacto (para la mayoría de los tipos de impactos) cuando el nivel de uso es bajo, donde el uso es alto, las diferencias en cantidades de uso tienen poco efecto en la cantidad de impacto gráfico. Los impactos ocurren rápidamente, la recuperación es lenta: alternar el uso por diferentes sitios aumenta en vez de disminuir impactos al recurso.
 
-    .row.justify-content-center.align-items-center.mb-4
+      .col-md-6.col-lg-6.mb-5
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema5/img_15.png' alt='AvatarTop')
+          .tarjeta.bg-19
+            .p-4
+              h5.text-center Impactos de la recuperación
+              p Más vale prevenir los impactos en un principio, que sanar las heridas que produce el uso descuidado, ya que esta recuperación, si es posible, tarda mucho más tiempo que poner en práctica los principios de “No Deje Rastro”. Entonces en la práctica, la estrategia de rotar sitios no está respaldada por la ciencia de la ecología de la recreación, como si funciona en la ganadería y la agricultura. Termina en más áreas con impacto significativo.
+
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Factores que influyen en la cantidad de impacto
@@ -104,7 +120,7 @@
         h5.text-center.text-verde Dentro de la metodología “No deje Rastro” se tienen en cuenta los siguientes factores:
 
     .bg_img
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
         .tarjeta.fondo_1_2.p-4.slyder_1.bg-01.mb-3
           SlyderA(tipo="b")
             .tarjeta.bg-01.p-3
@@ -168,7 +184,7 @@
         .col-lg-12.mb-2
           p Los mencionados factores pueden ser manipulados por la administración para controlar los impactos. Idealmente vamos a manejar el recurso basado en información objetiva sobre la condición del recurso, pero la única manera de recibir dicha información es el monitoreo o cuantificar niveles de impacto, cada acción de la administración debe ser respaldado por resultados de monitoreo.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Evolución histórica típica por un sitio de campamento 
@@ -196,7 +212,7 @@
         figure
           img(src="@/assets/curso/temas/tema5/img_12.png", alt="alt")
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-12.mb-2
         p Otra tendencia en los Estados Unidos a lo largo del tiempo es la gran proliferación en el número de sitios de campamento. Esto ocurre cuando el tráfico recreativo no es encausado. Nuevos cambios aparecen más rápidamente que los viejos desaparecen.
 

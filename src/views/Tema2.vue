@@ -7,7 +7,7 @@
         span 2
       h1 Historia y geografía turística
       
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-12.mb-3
         p La historia, así como la geografía son relevantes dentro del concepto del manejo turístico de un atractivo. El texto siguiente busca definir parámetros sobre estos temas.
       .col-lg-12.mb-5
@@ -74,7 +74,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img_6.png', alt='')
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Geografía Turística
@@ -93,8 +93,8 @@
         p La geografía turística es el estudio del viaje y del turismo, tanto como industria como actividad social y cultural. Esta disciplina abarca una amplia gama de intereses, entre ellos el impacto medioambiental, la economía del ocio y la sociología del turismo, respondiendo a las preocupaciones relacionadas con la gestión y la industria turística. La geografía es fundamental para este estudio, ya que involucra movimientos y actividades en el espacio geográfico.
         p Además, es una actividad en la que tanto las características de los lugares como las identidades personales se forman a través de las relaciones creadas entre estos, los paisajes y las personas.
 
-    .row.justify-content-center.align-items-center.mb-2
-      .col-lg-8.mb-2
+    .row.justify-content-center.align-items-center.mb-2.ordenar_tarjetas(data-aos="fade-right")
+      .col-lg-8.mb-2.pos_2.pos_1
         p Los desarrollos recientes en la geografía humana han dado como resultado acercamientos de geografía cultural que toman más acercamientos teóricamente diversos para el turismo, incluyendo una sociología que se extiende más allá como una actividad esporádica, o ver no sólo como un consuntivo de lugares, sino que también produce el sentido de lugar en un destino.
         .cajon.bg-2.g_18.mb-3
           .row.mb-4
@@ -105,7 +105,7 @@
         figure
           img(src="@/assets/curso/temas/tema2/img_8.png", alt="alt")
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-12.mb-3
         .bloque-texto-g.bloque-texto-g.bg-13.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
