@@ -264,7 +264,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'Ley 1558 del 10 de Julio de 2012.',
+      referencia: 'República de Colombia. (2012). Ley 1558 de 2012. ',
       link: '',
     },
     {

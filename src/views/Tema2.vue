@@ -23,7 +23,7 @@
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
           .div.mb-3(data-aos="fade-right")
             h3.bgr_3.position-relative Concepto
-              img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+              img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
         .col-lg-12.mb-3
           p Nuestra historia está enmarcada por cuatro épocas, a saber:
@@ -32,28 +32,28 @@
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
-                img(src="@/assets/curso/temas/tema2/img_2.svg", alt="alt").img90.mx-auto
+                img(src="@/assets/curso/temas/tema2/img_2.svg", alt='Imagen Descriptiva').img90.mx-auto
             h4.text-center Conquista española
             p.text-center.mb-0 1499 a 1550
         .col-md-6.col-lg-3.mb-4.h-100
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
-                img(src="@/assets/curso/temas/tema2/img_3.svg", alt="alt").img90.mx-auto
+                img(src="@/assets/curso/temas/tema2/img_3.svg", alt='Imagen Descriptiva').img90.mx-auto
             h4.text-center Colonia
             p.text-center.mb-0 1550 a 1810
         .col-md-6.col-lg-3.mb-4.h-100
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
-                img(src="@/assets/curso/temas/tema2/img_4.svg", alt="alt").img90.mx-auto
+                img(src="@/assets/curso/temas/tema2/img_4.svg", alt='Imagen Descriptiva').img90.mx-auto
             h4.text-center Independencia
             p.text-center.mb-0 1810 a 1819
         .col-md-6.col-lg-3.mb-4.h-100
           .crd.crd--grayGrad(data-aos="flip-left")
             .bottomCircle.mb-5
               figure
-                img(src="@/assets/curso/temas/tema2/img_5.svg", alt="alt").img90.mx-auto
+                img(src="@/assets/curso/temas/tema2/img_5.svg", alt='Imagen Descriptiva').img90.mx-auto
             h4.text-center República
             p.text-center.mb-0 1819 hasta nuestros días
 
@@ -61,7 +61,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Hechos históricos
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
     
       .col-lg-8.mb-3
         h5 Concepto
@@ -72,17 +72,17 @@
 
       .col-md-7.col-lg-4.mb-4
         figure
-          img(src='@/assets/curso/temas/tema2/img_6.png', alt='')
+          img(src='@/assets/curso/temas/tema2/img_6.png', alt='Imagen Descriptiva')
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Geografía Turística
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-md-8.col-lg-5.mb-2
         figure
-          img(src="@/assets/curso/temas/tema2/img_7.png", alt="alt")
+          img(src="@/assets/curso/temas/tema2/img_7.png", alt='Imagen Descriptiva')
       .col-lg-7.mb-2
 
         .cajon.bg-1.g_18.mb-3
@@ -103,7 +103,7 @@
 
       .col-md-8.col-lg-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema2/img_8.png", alt="alt")
+          img(src="@/assets/curso/temas/tema2/img_8.png", alt='Imagen Descriptiva')
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-12.mb-3

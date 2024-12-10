@@ -16,7 +16,7 @@
               p La educación al visitante es crucial para el manejo de áreas naturales y el programa “No Deje Rastro” ofrece una estructura simple para transmitir una ética y técnicas para reducir el impacto a las áreas silvestres que visitamos. Las raíces del programa “No Deje Rastro”, buscan unir condiciones sociales e institucionales para producir un esfuerzo en conjunto por un mensaje universal.
       .col-md-8.col-lg-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema4/img_1.png", alt="alt")
+          img(src="@/assets/curso/temas/tema4/img_1.png", alt='Imagen Descriptiva')
 
     .bg_img_3_1
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
@@ -32,7 +32,7 @@
     
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .col-lg-12.mb-3
-        p.mb-3 Los Principios del programa No Deje Rastro, basado y apoyado por investigaciones científicas desde sus comienzos, son una herramienta clara, consistente y práctica recomendando técnicas simples y fáciles de aplicar.
+        p.mb-3 Los Principios del programa "No Deje Rastro", basado y apoyado por investigaciones científicas desde sus comienzos, son una herramienta clara, consistente y práctica recomendando técnicas simples y fáciles de aplicar.
         p En la década de 1960 en los Estados Unidos de Norteamérica se produjo una explosión en la demanda para el uso de las áreas silvestres por parte de los habitantes de ese país con actividades como caminatas, excursiones y campismo. En 1924 el Servicio de Forestal de los Estados Unidos tenía una demanda de 4.6 millones de visitantes y en 1999 el uso era de 900 millones de usuarios. Cifras similares se registran en el Servicio de Parques Nacionales, con 33 millones en 1950 a 172 millones en 1970 y 287 millones de visitantes por año en 1999.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
@@ -46,7 +46,7 @@
         p <em>Fuente: The National Outdoor Leadership School (NOLS) & Leave No Trace (LNT). </em>
       .col-md-8.col-lg-5.mb-2
         figure
-          img(src="@/assets/curso/temas/tema4/img_3.png", alt="alt")
+          img(src="@/assets/curso/temas/tema4/img_3.png", alt='Imagen Descriptiva')
 
 </template>
 

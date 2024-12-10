@@ -20,7 +20,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Ecología de la recreación
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-lg-12.col-xl-8.mb-2
@@ -30,24 +30,24 @@
                 p Es la disciplina científica que describe los tipos, cantidades y velocidades de cambios ecológicos causados por el uso recreativo, en el campo de la investigación incluye la influencia del mismo uso, el ambiente específico, y factores administrativos en dichos cambios ecológicos.
 
           p La información que proporciona la Ecología Recreativa apoya a los administradores de ASP (áreas silvestres protegidas) de las siguientes maneras: identifica los impactos al recurso causados por la recreación, facilita un entendimiento de las causas específicas y los efectos de los impactos, y fomenta una percepción más acertada para prevenir, mitigar y manejar los impactos al recurso.
-          p Por otro lado, los estudios han respaldado la creación de los principios de No Deje Rastro como un programa con bases sólidas del estudio a través de décadas y poder ver el comportamiento de los visitantes y sus impactos.
+          p Por otro lado, los estudios han respaldado la creación de los principios de "No Deje Rastro" como un programa con bases sólidas del estudio a través de décadas y poder ver el comportamiento de los visitantes y sus impactos.
         
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
-            img(src="@/assets/curso/temas/tema5/img_2.png", alt="alt")
+            img(src="@/assets/curso/temas/tema5/img_2.png", alt='Imagen Descriptiva')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Concepto 
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
   
       .col-lg-12.mb-4
         p La definición de un "impacto al recurso", es un cambio indeseable (deterioro) de los suelos, vegetación, fauna silvestre y recursos acuáticos. En fin, un deterioro a la calidad de la experiencia recreativa.
 
       .col-md-8.col-lg-5.mb-3
         figure
-          img(src="@/assets/curso/temas/tema5/img_3.png", alt="alt").mx-auto
+          img(src="@/assets/curso/temas/tema5/img_3.png", alt='Imagen Descriptiva').mx-auto
       .col-lg-7.mb-3
         h4.color-primario Tipos de Impactos al Recurso
         LineaTiempoD
@@ -74,11 +74,11 @@
             li 
               i.fas.fa-check-circle
               div
-                <span class="text-marron text-bold">Legal:</span> el apoyo de la ley para que se minimicen impactos
+                <span class="text-marron text-bold">Legal:</span> el apoyo de la ley para que se minimicen impactos.
             li 
               i.fas.fa-check-circle
               div
-                <span class="text-marron text-bold">Ecológico:</span>  los impactos ponen en peligro la integridad y valor de las áreas silvestres protegidas, como un "control" para poder comparar a los ambientes alterados por el hombre
+                <span class="text-marron text-bold">Ecológico:</span>  los impactos ponen en peligro la integridad y valor de las áreas silvestres protegidas, como un "control" para poder comparar a los ambientes alterados por el hombre.
             li 
               i.fas.fa-check-circle
               div
@@ -87,7 +87,7 @@
     .row.mb-3(data-aos="zoom-in-down")
       .col-md-6.col-lg-6.mb-5
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img_14.png' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img_14.png'  alt='Imagen Descriptiva')
           .tarjeta.bg-18
             .p-4
               h5.text-center La influencia de la cantidad de uso en la cantidad de impacto
@@ -95,7 +95,7 @@
 
       .col-md-6.col-lg-6.mb-5
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema5/img_15.png' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema5/img_15.png'  alt='Imagen Descriptiva')
           .tarjeta.bg-19
             .p-4
               h5.text-center Impactos de la recuperación
@@ -105,7 +105,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Factores que influyen en la cantidad de impacto
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-3
         p Bajo la normatividad colombiana estos factores de impacto se definen en el Capítulo II, articulo 4 de la ley 1558 de 10 de Julio de 2012 bajo el concepto de:
@@ -188,7 +188,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Evolución histórica típica por un sitio de campamento 
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-8.mb-2
         p <span class="text-verde text-bold">Estado de formación:</span> impactos ocurren rápidamente cuando el sitio es utilizado por primera vez.
@@ -210,7 +210,7 @@
 
       .col-md-8.col-lg-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema5/img_12.png", alt="alt")
+          img(src="@/assets/curso/temas/tema5/img_12.png", alt='Imagen Descriptiva')
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-12.mb-2

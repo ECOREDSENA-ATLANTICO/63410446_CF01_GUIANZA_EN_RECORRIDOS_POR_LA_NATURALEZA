@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Fundamentación científica
+      h1 Manual de la Metodología “No deje Rastro”
     
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-5
@@ -15,8 +15,8 @@
     .bg_img_6_4.mb-2
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 1: Planifique y prepare su viaje con anticipación
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+          h3.bgr_3.position-relative Principio 1. Planifique y prepare su viaje con anticipación
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-lg-12.mb-2
@@ -24,7 +24,7 @@
         
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_2.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_2.png", alt='Imagen Descriptiva')
 
         .col-lg-12.col-xl-8.mb-2
           h4.mb-2.text-verde Infórmese sobre el área que va a visitar 
@@ -71,7 +71,7 @@
             
       .col-md-8.col-lg-6.col-xl-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema6/img_3.png", alt="alt")
+          img(src="@/assets/curso/temas/tema6/img_3.png", alt='Imagen Descriptiva')
 
     .bg_img_5.mb-5
       .row.justify-content-center.align-items-center.mb-1(data-aos="zoom-in-down")
@@ -88,12 +88,12 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 2: Viaje y acampe en superficies resistentes
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+          h3.bgr_3.position-relative Principio 2. Viaje y acampe en superficies resistentes
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-md-8.col-lg-6.col-xl-5.mb-2
         figure
-          img(src="@/assets/curso/temas/tema6/img_4.png", alt="alt")
+          img(src="@/assets/curso/temas/tema6/img_4.png", alt='Imagen Descriptiva')
 
       .col-lg-12.col-xl-7.mb-2        
         .cajon.bg-1.g_18.mb-3
@@ -126,42 +126,42 @@
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
                 .col-8.text-center
-                  img(src='@/assets/curso/temas/tema6/img_5.svg' alt='AvatarTop').w-75.mx-auto
+                  img(src='@/assets/curso/temas/tema6/img_5.svg'  alt='Imagen Descriptiva').w-75.mx-auto
               h4 Superficies
               p Camine en superficies resistentes.
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
                 .col-8.text-center
-                  img(src='@/assets/curso/temas/tema6/img_6.svg' alt='AvatarTop').w-75.mx-auto
+                  img(src='@/assets/curso/temas/tema6/img_6.svg'  alt='Imagen Descriptiva').w-75.mx-auto
               h4 Acampar
               p Encuentre y seleccione un lugar para acampar.
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
                 .col-8.text-center
-                  img(src='@/assets/curso/temas/tema6/img_7.svg' alt='AvatarTop').w-75.mx-auto
+                  img(src='@/assets/curso/temas/tema6/img_7.svg'  alt='Imagen Descriptiva').w-75.mx-auto
               h4 Fuentes de agua
               p Proteja las fuentes de agua dulce y realice las actividades contaminantes a más de 60 metros de ellas. 
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
                 .col-8.text-center
-                  img(src='@/assets/curso/temas/tema6/img_8.svg' alt='AvatarTop').w-75.mx-auto
+                  img(src='@/assets/curso/temas/tema6/img_8.svg'  alt='Imagen Descriptiva').w-75.mx-auto
               h4 Lugares
               p Evite los lugares donde el impacto apenas comienza.
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
                 .col-8.text-center
-                  img(src='@/assets/curso/temas/tema6/img_9.svg' alt='AvatarTop').w-75.mx-auto
+                  img(src='@/assets/curso/temas/tema6/img_9.svg'  alt='Imagen Descriptiva').w-75.mx-auto
               h4 Campamento
               p Evite ubicar el campamento en sitios frágiles o sensibles.
 
             .tarjeta.bg-03.p-4
               .row.justify-content-center.mb-3
                 .col-8.text-center
-                  img(src='@/assets/curso/temas/tema6/img_10.svg' alt='AvatarTop').w-75.mx-auto
+                  img(src='@/assets/curso/temas/tema6/img_10.svg'  alt='Imagen Descriptiva').w-75.mx-auto
               h4 Limpieza
               p Deje limpio y mejor de cómo encontró el lugar.
 
@@ -202,7 +202,7 @@
 
       .col-md-8.col-lg-4.mb-3
         figure
-          img(src="@/assets/curso/temas/tema6/img_12.png", alt="alt").mx-auto
+          img(src="@/assets/curso/temas/tema6/img_12.png", alt='Imagen Descriptiva').mx-auto
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-md-12.col-lg-12.mb-5
@@ -267,7 +267,7 @@
 
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_17.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_17.png", alt='Imagen Descriptiva')
 
         .col-lg-12.mb-2
           p.mb-3 Cada una de las mochilas deben colocarse en sitios aparte, así se esparce el pisoteo en una misma zona del campamento. Use calzado de suela blanda y camine por áreas de tierra o roca o varíe su ruta entre las distintas zonas del campamento. De tal forma se pueda evitar el hacer senderos entre ellas.
@@ -276,10 +276,10 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-md-8.col-lg-6.col-xl-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema6/img_18.png", alt="alt")
+          img(src="@/assets/curso/temas/tema6/img_18.png", alt='Imagen Descriptiva')
       .col-lg-12.col-xl-8.mb-2
         h4.mb-2.text-verde Deje limpio el campamento 
-        p.mb-3 Para la mayoría de los campistas uno de los objetivos es "estar lejos del ritmo y las distracciones de la vida en la ciudad". Para ese tipo de visitantes las áreas prístinas representan un ambiente de reto y de diversión y una oportunidad de disfrutar de la soledad en un entorno natural. Pero también viajar en áreas prístinas o poco frecuentadas representan un serio compromiso para dejarlas tan naturales como las encontraron. Las técnicas de No Deje Rastro contribuyen para lograrlo.
+        p.mb-3 Para la mayoría de los campistas uno de los objetivos es "estar lejos del ritmo y las distracciones de la vida en la ciudad". Para ese tipo de visitantes las áreas prístinas representan un ambiente de reto y de diversión y una oportunidad de disfrutar de la soledad en un entorno natural. Pero también viajar en áreas prístinas o poco frecuentadas representan un serio compromiso para dejarlas tan naturales como las encontraron. Las técnicas de "No Deje Rastro" contribuyen para lograrlo.
         .cajon.bg-1.g_18.mb-3
           .row.mb-4
             .col-lg-12.p-4.ps-5 
@@ -317,20 +317,20 @@
           
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_20.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_20.png", alt='Imagen Descriptiva')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 3: Disponga de desperdicios de la manera más apropiada
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+          h3.bgr_3.position-relative Principio 3. Disponga de desperdicios de la manera más apropiada
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-3
         p Hay que tener presente que, como nosotros, otros campistas vendrán a la zona. Nuestro objetivo es proteger y darles la oportunidad para que ellos disfruten tal como nosotros disfrutamos del entorno natural del área. El emplear las técnicas en el manejo de desechos durante su visita le brindarán comodidad a usted y a futuros visitantes y generará un menor impacto al área. Tenga en cuenta los siguientes puntos antes de su salida.
 
       .col-md-8.col-lg-6.col-xl-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema6/img_21.png", alt="alt")
+          img(src="@/assets/curso/temas/tema6/img_21.png", alt='Imagen Descriptiva')
 
       .col-lg-12.col-xl-8.mb-2
         h4.mb-4.text-verde Lo que lleve, regréselo:
@@ -442,7 +442,7 @@
                 
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_27.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_27.png", alt='Imagen Descriptiva')
 
         .col-lg-12.mb-2
           h4.mb-2.text-verde Limpieza personal y de utensilios 
@@ -454,7 +454,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/img_28.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 Cuando usa jabón para el aseo personal, es importante llevar uno biodegradable y bañarse utilizando agua acarreada, lejos de la fuente de agua. Siempre lave muy bien sus manos con agua y jabón luego de ir al baño ya que eliminará fuentes de infección.
+              p.mb-0 Cuando usa jabón para el aseo personal, es importante llevar uno biodegradable y bañarse utilizando agua acarreada, lejos de la fuente de agua. Siempre lave muy bien sus manos con agua y jabón luego de ir al baño ya que eliminará fuentes de infección. 
               p En el caso de la limpieza de utensilios de cocina, lavar con agua caliente es suficiente para dejarlos limpios. Agregar unas gotas de cloro al agua con la que se enjuaga, puede evitar la proliferación de bacteria que producen enfermedades gastrointestinales.
     
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
@@ -463,7 +463,7 @@
         p Los desechos humanos, en particular las heces fecales, son una fuente de posible contaminación de las áreas silvestres. No sólo producen la proliferación de patógenos por insectos y animales, sino que además son un impacto visual muy negativo. Por ello, es de suma importancia que aplique algunas técnicas que ayuden a hacer más efectiva la descomposición de los desechos humanos y minimicen su impacto en el ecosistema.
       .col-md-8.col-lg-4.mb-3
         figure
-          img(src="@/assets/curso/temas/tema6/img_29.png", alt="alt").mx-auto
+          img(src="@/assets/curso/temas/tema6/img_29.png", alt='Imagen Descriptiva').mx-auto
       .col-lg-8.mb-3
         h4.color-primario Tipos de Impactos al Recurso
         LineaTiempoD
@@ -505,7 +505,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 4. Respete la vida silvestre
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.col-xl-8.mb-2        
         p.mb-3 La recreación en la naturaleza puede causar una variedad de impactos a la vida silvestre y a largo plazo en la sociedad. 
@@ -523,7 +523,7 @@
 
       .col-md-8.col-lg-6.col-xl-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema6/img_30.png", alt="alt")
+          img(src="@/assets/curso/temas/tema6/img_30.png", alt='Imagen Descriptiva')
 
       .col-lg-12.mb-3
         h4.mb-2.text-verde Ayude a proteger el estado silvestre de la fauna 
@@ -533,7 +533,7 @@
       .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-md-8.col-lg-6.col-xl-5.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_31.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_31.png", alt='Imagen Descriptiva')
         .col-lg-12.col-xl-7.mb-2
           h4.mb-2.text-verde No alimente a los animales 
           p.mb-3 No alimente a los animales ya que les provoca cambios en su comportamiento y por ende resulta en alteraciones de su dieta natural. Proteja a la fauna silvestre almacenando su alimento y basura en forma segura donde los animales no lo puedan alcanzar. Animales acostumbrados asocian a los campistas con alimento y por lo tanto visitarán el campamento en busca de comida. 
@@ -558,7 +558,7 @@
 
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_32.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_32.png", alt='Imagen Descriptiva')
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-2
@@ -580,11 +580,11 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 5. Minimice el impacto de fogatas
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-3
         p.mb-2 El prender fuegos sin las debidas precauciones representa una amenaza de fuegos forestales y causa daños a la apariencia natural de un lugar al dejar cicatrices en el ambiente y la vegetación. Por tal razón, en muchas áreas silvestres está prohibido hacer fogatas o solo está permitido en lugares designados. 
-        p.mb-2 No deje rastro, estimula a sus seguidores a restringir lo más posible el uso del fuego. Traiga la leña de su casa, o mejor aún, use estufas portátiles para cocinar. Si decide usar una fogata, disponga de un recipiente con agua por seguridad y evitar incendios.
+        p.mb-2 "No deje rastro", estimula a sus seguidores a restringir lo más posible el uso del fuego. Traiga la leña de su casa, o mejor aún, use estufas portátiles para cocinar. Si decide usar una fogata, disponga de un recipiente con agua por seguridad y evitar incendios.
 
         h4.mb-2.text-verde Pregúntese si en verdad necesita hacer fuego 
         p.mb-2 El llevar consigo un abrigo, una capa impermeable y una estufa de acampar liviana eliminará la necesidad de hacer fuego. Las estufas de acampar son el equipo más importante para minimizar el impacto ya que son portátiles, cocinan muy rápido y no dejan huella en el campamento. Los campistas deberán llevar consigo una estufa y suficiente combustible para cocinar todas sus comidas, siempre que sea posible.
@@ -592,7 +592,7 @@
 
       .col-md-8.col-lg-6.col-xl-5.mb-2
         figure
-          img(src="@/assets/curso/temas/tema6/img_34.png", alt="alt")
+          img(src="@/assets/curso/temas/tema6/img_34.png", alt='Imagen Descriptiva')
 
       .col-lg-12.col-xl-7.mb-2        
         h4.mb-2.text-dark Si opta por prender fuego, hay nuevas técnicas para hacerlo:
@@ -639,13 +639,13 @@
 
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_35.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_35.png", alt='Imagen Descriptiva')
 
     .bg_img_6_3.mb-5.p-4
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_36.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_36.png", alt='Imagen Descriptiva')
         
         .col-lg-12.col-xl-8.mb-4
           h4.mb-2.text-verde En áreas de alto uso haga fogatas solo en lugares ya utilizados para tal fin 
@@ -683,13 +683,13 @@
 
         .col-md-8.col-lg-6.col-xl-5.mb-2
           figure
-            img(src="@/assets/curso/temas/tema6/img_37.png", alt="alt")
+            img(src="@/assets/curso/temas/tema6/img_37.png", alt='Imagen Descriptiva')
 
     .row.justify-content-center.align-items-center.mb-2.ordenar_tarjetas(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 6. Considere a otros visitantes
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
       
       .col-lg-12.mb-3
         p.mb-2 Un problema con la recreación en algunas áreas naturales es que vienen distintos grupos de visitantes con distintos fines. Para amortiguar potenciales conflictos entre los visitantes, todos que vienen a disfrutar del área, es importante no pensar solamente en satisfacer sus necesidades particulares y momentáneas sino hacer un esfuerzo para que el provecho que uno saca de su visita a un área natural no perjudique el disfrute de otros.
@@ -704,7 +704,7 @@
 
       .col-md-8.col-lg-6.col-xl-4.mb-3
         figure
-          img(src="@/assets/curso/temas/tema6/img_38.png", alt="alt").mb-2
+          img(src="@/assets/curso/temas/tema6/img_38.png", alt='Imagen Descriptiva').mb-2
     
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .col-lg-12.mb-2
@@ -750,7 +750,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Principio 7. Deje lo que encuentre
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
       
       .col-lg-12.mb-3
         p Las personas visitan los lugares silvestres para disfrutar de su estado natural y experimentar un ambiente que ofrece retos y sorpresas. Permita a otros experimentar este sentido de soledad y descubrimiento al dejar todo como lo encontró como las plantas, la vida silvestre, las rocas, los artefactos arqueológicos y otros objetos de interés. Para dejar todo tal como lo encontró. A continuación, se explica:

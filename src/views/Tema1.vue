@@ -20,12 +20,12 @@
       .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
         .col-md-8.col-lg-5.mb-2
           figure
-            img(src="@/assets/curso/temas/tema1/img_2.png", alt="alt")
+            img(src="@/assets/curso/temas/tema1/img_2.png", alt='Imagen Descriptiva')
         .col-lg-7.mb-2
           .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
             .div.mb-3(data-aos="fade-right")
               h3.bgr_3.position-relative Definición etimológica
-                img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+                img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
           p Existen diferentes conceptos del origen de la palabra Ecología; se tomarán como base fundamental para iniciar la primera actividad definición etimológica:      
         
@@ -38,19 +38,19 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Concepto 
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       p La ecología es el estudio de las interacciones entre los ambientes orgánicos e inorgánicos y su entorno. Analiza cómo los seres vivos, ya sean animales o plantas, se relacionan de manera directa o indirecta con su medio, considerando tanto las relaciones amistosas como hostiles que enfrentan en su lucha diaria por la existencia.
 
       .col-lg-12
         figure
-          img(src="@/assets/curso/temas/tema1/img_4.png", alt="alt")
+          img(src="@/assets/curso/temas/tema1/img_4.png", alt='Imagen Descriptiva')
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Niveles de organización de la ecología 
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-8.mb-4
         LineaTiempoD
@@ -141,7 +141,7 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-md-8.col-lg-6.col-xl-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema1/img_7.png", alt="alt").mx-auto
+          img(src="@/assets/curso/temas/tema1/img_7.png", alt='Imagen Descriptiva').mx-auto
       .col-lg-12.col-xl-8.mb-2
 
         p <b>Ecosistema:</b> Ecosistema es el término con el que se denominan todas las interacciones que se establecen entre los seres vivos y entre éstos y el ambiente en que se encuentran. Un ecosistema es la totalidad de los vegetales y los animales en una determinada región, junto con el entorno físico en donde viven. Por definición, el ecosistema está formado por elementos con vida (bióticos) y sin vida (abióticos). Dentro de los primeros se incluyen los animales, vegetales, algas, hongos, bacterias y protozoarios. Los factores abióticos son el agua, el suelo, el aire, los rayos solares, los factores climáticos, etc.
@@ -184,7 +184,7 @@
 
       .col-md-6.col-lg-4.mb-4
         figure
-          img(src="@/assets/curso/temas/tema1/img_8.png", alt="alt").mx-auto
+          img(src="@/assets/curso/temas/tema1/img_8.png", alt='Imagen Descriptiva').mx-auto
 
     .bg_img_5_5
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
@@ -196,21 +196,21 @@
             .col-md-6.col-lg-4.mb-3
               .tarjeta.bg-03.p-4.h-100
                 figure
-                  img(src="@/assets/curso/temas/tema1/img_9.svg", alt="alt").w-50.mx-auto.mb-3
+                  img(src="@/assets/curso/temas/tema1/img_9.svg", alt='Imagen Descriptiva').w-50.mx-auto.mb-3
                 h4.mb-3 Factores climáticos
                 p La temperatura, la humedad, la presión atmosférica, etc.
             
             .col-md-6.col-lg-4.mb-3
               .tarjeta.bg-03.p-4.h-100
                 figure
-                  img(src="@/assets/curso/temas/tema1/img_10.svg", alt="alt").w-50.mx-auto.mb-3
+                  img(src="@/assets/curso/temas/tema1/img_10.svg", alt='Imagen Descriptiva').w-50.mx-auto.mb-3
                 h4.mb-3 Factores edáficos
                 p Dependientes de las características del suelo.
             
             .col-md-6.col-lg-4.mb-3
               .tarjeta.bg-03.p-4.h-100
                 figure
-                  img(src="@/assets/curso/temas/tema1/img_11.svg", alt="alt").w-50.mx-auto.mb-3
+                  img(src="@/assets/curso/temas/tema1/img_11.svg", alt='Imagen Descriptiva').w-50.mx-auto.mb-3
                 h4.mb-3 Factores hidrológicos
                 p Dependientes del agua.
 
@@ -249,7 +249,7 @@
 
       .col-md-8.col-lg-6.mb-3
         figure
-          img(src="@/assets/curso/temas/tema1/img_13.png", alt="alt").mx-auto
+          img(src="@/assets/curso/temas/tema1/img_13.png", alt='Imagen Descriptiva').mx-auto
       .col-lg-6.mb-3
         LineaTiempoD
           row(numero="1" titulo="Biotopo") 
@@ -355,7 +355,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Contaminación 
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-4
         p Llamamos contaminación a aquellos cambios, no deseables en nuestro entorno, de las características físicas, químicas y biológicas del aire, del agua y del suelo, que afectan al hombre, a las especies animales y a las vegetales.
@@ -395,7 +395,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Recursos naturales 
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-4
         .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
@@ -411,7 +411,7 @@
       .col-md-10.col-lg-6.mb-4.bg-09.p-4.border-izquierda
         .row.justify-content-center
           .col-lg-8.text-white
-            img(src="@/assets/curso/temas/tema1/img_18.png", alt="alt").mx-auto.w-50.mb-4
+            img(src="@/assets/curso/temas/tema1/img_18.png", alt='Imagen Descriptiva').mx-auto.w-50.mb-4
 
             h3.mb-3.text-center Biodegradables
 
@@ -420,17 +420,17 @@
       .col-md-10.col-lg-6.mb-4.bg-10.p-4.border-derecha
         .row.justify-content-center
           .col-lg-8.text-dark
-            img(src="@/assets/curso/temas/tema1/img_19.png", alt="alt").mx-auto.w-50.mb-4
+            img(src="@/assets/curso/temas/tema1/img_19.png", alt='Imagen Descriptiva').mx-auto.w-50.mb-4
 
-            h3.mb-3.text-center Biodegradables
+            h3.mb-3.text-center No Biodegradables
 
-            p.text-center Son organismos que se pueden descomponer por la acción natural de organismos vivos, como lombrices, hongos, y bacterias. Existen problemas cuando la cantidad de contaminantes supera la cantidad de organismos descomponedores. Los materiales biodegradables derivan de elementos orgánicos, como el papel, el cartón, los restos de animales y vegetales. 
+            p.text-center Los materiales que no se descomponen de manera natural y que,cuando lo hacen, sufren una descomposición extremadamente lenta,presentan un riesgo considerable debido a su acumulaciónprogresiva. Ejemplos de estos materiales no biodegradables incluyenlos metales, el vidrio y los artículos de plástico, animales y vegetales
 
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Área natural 
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-3
         p.mb-3 Área geográfica con condiciones ambientales y climáticas similares, que alberga comunidades de animales y plantas que interactúan entre sí y dependen mutuamente para su supervivencia (mutualismo).

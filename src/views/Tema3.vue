@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-3
         figure
-          img(src="@/assets/curso/temas/tema3/img_1.png", alt="alt").mx-auto
+          img(src="@/assets/curso/temas/tema3/img_1.png", alt='Imagen Descriptiva').mx-auto
 
       .col-lg-12.mb-3
         p La legislación ambiental o derecho ambiental es un complejo conjunto de tratados, convenios, estatutos, reglamentos, y el derecho común que, de manera muy amplia, funcionan para regular la interacción de la humanidad y el resto de los componentes biofísicos o el medio ambiente natural, hacia el fin de reducir los impactos de la actividad humana, tanto en el medio natural y en la humanidad misma.
@@ -18,7 +18,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-md-8.col-lg-4.mb-2
         figure
-          img(src="@/assets/curso/temas/tema3/img_2.png", alt="alt")
+          img(src="@/assets/curso/temas/tema3/img_2.png", alt='Imagen Descriptiva')
       .col-lg-8.mb-2
         p El tema puede ser dividido en dos áreas principales: control de la contaminación y la remediación, y conservación de los recursos y la gestión. Las leyes que tratan con la contaminación son a menudo medios de comunicación limitados – es decir, pertenecen sólo a un solo medio ambiental, como el aire, el agua (ya sean aguas superficiales, aguas subterráneas o los océanos), suelo, etc., y controlan tanto las emisiones de contaminantes en el medio ambiente, así como la responsabilidad por exceder las emisiones permitidas y la responsabilidad de la limpieza.
         .cajon.bg-1.g_18.mb-3
@@ -45,29 +45,29 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-md-8.col-lg-5.mb-3
         figure
-          img(src="@/assets/curso/temas/tema3/img_4.png", alt="alt")
+          img(src="@/assets/curso/temas/tema3/img_4.png", alt='Imagen Descriptiva')
 
       .col-lg-7.mb-3
         h5 Dado el amplio alcance del derecho ambiental, no hay una lista totalmente definitiva de las leyes ambientales, sin embargo, a nivel nacional se consideran las siguientes normas:
         ul.lista-ul--color.lista-ul--separador
           li 
             i.fas.fa-check-circle
-            |	Política Nacional de Biodiversidad 
+            |	Política Nacional de Biodiversidad.
           li 
             i.fas.fa-check-circle
-            |	Ley 1558 de 10 de Julio de 2012 
+            |	Ley 1558 de 10 de Julio de 2012.
           li 
             i.fas.fa-check-circle
-            |	Decreto 2372 de 1 de Julio de 2010 
+            |	Decreto 2372 de 1 de Julio de 2010.
           li 
             i.fas.fa-check-circle
-            |	Decreto 1996 de 1999 
+            |	Decreto 1996 de 1999.
           li 
             i.fas.fa-check-circle
-            |	Sistema Nacional Ambiental (SINA) ley 99 de 1993 
+            |	Sistema Nacional Ambiental (SINA) ley 99 de 1993.
           li 
             i.fas.fa-check-circle
-            |	Decreto 2811 de 1974 
+            |	Decreto 2811 de 1974.
           li 
             i.fas.fa-check-circle
             |	Código Nacional de Recursos Naturales Renovables y de Protección al Medio Ambiente. Ley 0023 de 1973.
