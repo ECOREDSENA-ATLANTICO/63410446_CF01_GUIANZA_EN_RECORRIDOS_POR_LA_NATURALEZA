@@ -32,7 +32,7 @@
           .cajon.bg-1.g_18.mb-5
             .row.mb-4
               .col-lg-12.p-4.ps-5 
-                p La palabra Ecología proviene del griego <em>«οίκος» oikos</em>, que significa lugar donde se habita y/o casa, y λóγος» logos, que significa estudio. Etimológicamente significa, el estudio del lugar donde se habita. Parece ser que esta definición fue la primera publicada en el año de 1869 por el destacado zoólogo Alemán Ernst Haeckel.
+                p La palabra Ecología proviene del griego <em>«οίκος» oikos</em>, que significa lugar donde se habita y/o casa, y <em>«λóγος»</em> logos, que significa estudio. Etimológicamente significa, el estudio del lugar donde se habita. Parece ser que esta definición fue la primera publicada en el año de 1869 por el destacado zoólogo Alemán Ernst Haeckel.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -51,6 +51,7 @@
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Niveles de organización de la ecología 
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
+          p.mb-3 La ecología, es la rama de las ciencias biológicas que estudia las relaciones entre los seres vivos y el ambiente que los rodea. A continuación, se presentan los distintos niveles de organización:
 
       .col-lg-8.mb-4
         LineaTiempoD
@@ -217,30 +218,30 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-10
 
-        h4.mb-3.text-center Cuando de ecosistemas se trata, hay ciertos términos que se utilizan y es preciso conocer:
+        h4.mb-3.text-center Los factores ambientales bióticos son:
 
         ul.lista-ul--color.lista-ul--separador
           li 
             .lista-ol--cuadro__vineta
               span a
             div
-              <span class="text-marron text-bold">Medio:</span> es el fluido que envuelve o rodea a los seres vivos, principalmente el agua (medio acuático) o el aire (medio aéreo).
+              <span class="text-marron text-bold">Las relaciones intra e inter específicas:</span> son las relaciones que se establecen entre una misma especie o entre especies diferentes. según el tipo de relación establecida, existen distinto comportamientos que exigirán una determina adaptación por parte de las plantas y de los animales.
           li 
             .lista-ol--cuadro__vineta
               span b
             div
-              <span class="text-marron text-bold">Sustrato:</span> son las superficies donde se apoyan y desplazan los seres vivos, se caracterizan dentro de ellas las rocas y los suelos.
+              <span class="text-marron text-bold">Densidad poblacional:</span> concentración de individuos de la misma o de distinta especie ocupando un espacio determinado.
           li 
             .lista-ol--cuadro__vineta
               span c
             div
-              <span class="text-marron text-bold">Factores ambientales:</span> son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
+              <span class="text-marron text-bold">La vegetación:</span> factor muy importante para los animales, ya que les proporciona alimentos, refugio y cobertura.
 
           li 
             .lista-ol--cuadro__vineta
               span d
             div
-              <span class="text-marron text-bold">Factores ambientales:</span> son las variables externas al individuo, capaces de influir en su existencia. Los factores ambientales pueden ser abióticos o bióticos.
+              <span class="text-marron text-bold">Influencia humana:</span> importante factor ambiental biótico, ya que influye sobre el medio ambiente con el aumento de la población y la tecnología.
 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
@@ -517,37 +518,37 @@
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 a
-                p Los Sistema de Parques Nacionales Naturales
+                  .h2 
+                p Los Sistema de Parques Nacionales Naturales.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 b
-                p Bosques, selvas
+                  .h2 
+                p Las Reservas Forestales Protectoras.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 c
-                p Praderas
+                  .h2 
+                p Los Parques Naturales Regionales.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 d
-                p Los Distritos de Manejo Integrado
+                  .h2 
+                p Los Distritos de Manejo Integrado.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 e
-                p Los Distritos de Conservación de Suelos
+                  .h2 
+                p Los DIstritos de Conservación de Suelos.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 f
+                  .h2 
                 p Las Áreas de Recreación
                 
         h4.mb-5.text-center Áreas Protegidas Privadas
@@ -556,7 +557,7 @@
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 g
+                  .h2 
                 p Las Reservas Naturales de la Sociedad Civil
 </template>
 

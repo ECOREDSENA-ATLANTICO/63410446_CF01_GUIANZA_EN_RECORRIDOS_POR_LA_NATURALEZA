@@ -56,7 +56,7 @@
               i.fas.fa-check-circle
               |	Si se comunica con el personal encargado de la administración del área es fácil de adquirir la información indicada.
 
-    .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-12.col-xl-8.mb-2
         h4.mb-2.text-verde Utilice equipo adecuado 
         p Llevar el equipo adecuado minimiza la posibilidad de enfrentar situaciones de sobrevivencia donde uno tiene que priorizar la seguridad personal sobre la conservación del área. 
@@ -65,21 +65,36 @@
           li 
             i.fas.fa-check-circle
             |	Vestuario de acuerdo al clima y una botella para llevar agua le permitirán mantenerse cómodo durante el día.
-          li 
-            i.fas.fa-check-circle
-            | Sí va a acampar considere llevar el siguiente equipo:
+          li.d-flex.flex-column
+            p
+              i.fas.fa-check-circle
+              | Sí va a acampar considere llevar el siguiente equipo:
+            p 
+              b Equipo 1: 
+              | Una cocinilla o estufa para evitar la necesidad de hacer una fogata en cada campamento.
+            p 
+              b Equipo 2: 
+              | Un galón o botellón para traer agua al campamento hace más conveniente el acampar a una distancia apropiada (60m) de las fuentes de agua y en la superficie más resistente en el área.
+            p 
+              b Equipo 3: 
+              | Si piensa acampar fuera de sitios habilitados, una palita de jardín le ayudará a disponer de los deshechos humanos de una manera sanitaria y segura.
+            p 
+              b Equipo 4: 
+              | Una carpa o toldo para evitar la necesidad de construir cobertizos.
+
+
             
       .col-md-8.col-lg-6.col-xl-4.mb-2
         figure
           img(src="@/assets/curso/temas/tema6/img_3.png", alt='Imagen Descriptiva')
 
     .bg_img_5.mb-5
-      .row.justify-content-center.align-items-center.mb-1(data-aos="zoom-in-down")
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         .col-lg-12.mb-2
           h4.mb-2.text-verde Reduzca la basura que va a llevar 
           p Esto hace posible dejar en casa una gran cantidad de basura potencial y reducir el peso y el volumen de la mochila.
           p Reembolse los alimentos en bolsas plásticas, para así dejar los envases comerciales en casa. Las bolsas plásticas son más livianas y ocupan poco espacio al traerlas de regreso.
-          p Toma el tiempo para planificar sus raciones de comida cuidadosamente para evita otra fuente de basura - las sobras de comida.
+          p Toma el tiempo para planificar sus raciones de comida cuidadosamente para evitar otra fuente de basura, las sobras de comida.
 
         .col-lg-12.mb-2
           h4.mb-2.text-verde Asegúrese de que domina las técnicas necesarias 
@@ -168,7 +183,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-2
         p.mb-3 El viajar y acampar requiere de la toma de decisiones, para seleccionar el sitio más apropiado para causar el menor daño al ambiente. Las estrategias a aplicar van a depender no sólo del ecosistema que visita, sino también los patrones de uso en el área.
-        p En áreas de alto uso, se deben concentrar las actividades en rutas y sitios establecidos para no ampliar el área total impactada dentro de la zona. En áreas menos frecuentadas o vírgenes la estrategia indicada es esparcir sus actividades para no crear impactos duraderos ni áreas 
+        p En áreas de alto uso, se deben concentrar las actividades en rutas y sitios establecidos para no ampliar el área total impactada dentro de la zona. En áreas menos frecuentadas o vírgenes la estrategia indicada es esparcir sus actividades para no crear impactos duraderos ni áreas de sacrificio.
 
       .col-lg-12.mb-5
         .bloque-texto-g.bloque-texto-g.bg-09.p-3.p-sm-4.p-md-5
@@ -599,28 +614,28 @@
         ul.lista-ul--color.lista-ul--separador
           li 
             i.fas.fa-check-circle
-            |	Conozca los reglamentos y las condiciones del tiempo. 
+            |	Reglamentos: Conozca los reglamentos y las condiciones del tiempo. 
           li 
             i.fas.fa-check-circle
-            |	En áreas de alto uso solo haga fogatas en lugares ya utilizados para este fin. 
+            |	Fogatas: En áreas de alto uso solo haga fogatas en lugares ya utilizados para este fin. 
           li 
             i.fas.fa-check-circle
-            |	Colecte solo madera seca y ramas caídas de un área amplia. 
+            |	Ramas caídas: Colecte solo madera seca y ramas caídas de un área amplia. 
           li 
             i.fas.fa-check-circle
-            |	Use trozos pequeños de madera. 
+            |	Madera: Use trozos pequeños de madera. 
           li 
             i.fas.fa-check-circle
-            |	Queme su fuego hasta producir cenizas o brasas muy pequeñas. 
+            |	Fuego: Queme su fuego hasta producir cenizas o brasas muy pequeñas. 
           li 
             i.fas.fa-check-circle
-            |	Use cacerolas portátiles para fuego. 
+            |	Cacerolas: Use cacerolas portátiles para fuego. 
           li 
             i.fas.fa-check-circle
-            |	Use barras de arena para contener el fuego. 
+            |	Arena: Use barras de arena para contener el fuego. 
           li 
             i.fas.fa-check-circle
-            |	Use la fogata de plataforma en zonas de bajo uso. 
+            |	Fogata: Use la fogata de plataforma en zonas de bajo uso. 
 
     .bg_img_5_5.mb-5
       .row.justify-content-center.align-items-center.mb-2.ordenar_tarjetas(data-aos="zoom-in-down")

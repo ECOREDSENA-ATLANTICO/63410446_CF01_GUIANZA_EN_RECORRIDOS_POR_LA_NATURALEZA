@@ -39,7 +39,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Concepto 
+          h3.bgr_3.position-relative Impactos 
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
   
       .col-lg-12.mb-4

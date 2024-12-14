@@ -20,7 +20,7 @@
         figure
           img(src="@/assets/curso/temas/tema3/img_2.png", alt='Imagen Descriptiva')
       .col-lg-8.mb-2
-        p El tema puede ser dividido en dos áreas principales: control de la contaminación y la remediación, y conservación de los recursos y la gestión. Las leyes que tratan con la contaminación son a menudo medios de comunicación limitados – es decir, pertenecen sólo a un solo medio ambiental, como el aire, el agua (ya sean aguas superficiales, aguas subterráneas o los océanos), suelo, etc., y controlan tanto las emisiones de contaminantes en el medio ambiente, así como la responsabilidad por exceder las emisiones permitidas y la responsabilidad de la limpieza.
+        p El tema puede ser dividido en dos áreas principales: control de la contaminación y la remediación, y conservación de los recursos y la gestión. Las leyes que tratan con la contaminación son a menudo medios de comunicación limitados, es decir, pertenecen sólo a un solo medio ambiental, como el aire, el agua (ya sean aguas superficiales, aguas subterráneas o los océanos), suelo, etc., y controlan tanto las emisiones de contaminantes en el medio ambiente, así como la responsabilidad por exceder las emisiones permitidas y la responsabilidad de la limpieza.
         .cajon.bg-1.g_18.mb-3
           .row.mb-4
             .col-lg-12.p-4.ps-5 
